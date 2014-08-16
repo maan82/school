@@ -26,16 +26,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="StudentLeaveController.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/school/web/StudentLeaveController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="210">
-              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="StudentLeaveController_Roo_Controller.aj" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/school/web/StudentLeaveController_Roo_Controller.aj">
           <provider selected="true" editor-type-id="text-editor">
@@ -66,11 +56,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="create.jspx" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="create.jspx" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/abstractpeople/create.jspx">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="450">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="database.properties" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/META-INF/spring/database.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.57471263" vertical-offset="0" max-vertical-offset="261">
+              <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -150,7 +150,6 @@
         <option value="$PROJECT_DIR$/src/main/resources/META-INF/spring/applicationContext-security.xml" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/studentattendences/list-sheet.jspx" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/studentattendences/views.xml" />
-        <option value="$PROJECT_DIR$/src/main/resources/META-INF/spring/database.properties" />
         <option value="$PROJECT_DIR$/src/main/java/com/mycompany/school/web/form/AttendenceSearchForm.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/i18n/messages.properties" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/studentattendences/findAttendenceSheetByClassAndSection.jspx" />
@@ -187,6 +186,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/mycompany/school/web/StudentLeaveController.java" />
         <option value="$PROJECT_DIR$/log.roo" />
         <option value="$PROJECT_DIR$/src/main/java/com/mycompany/school/domain/StudentLeave.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/META-INF/spring/database.properties" />
       </list>
     </option>
   </component>
@@ -599,7 +599,7 @@
     <property name="MemberChooser.showClasses" value="true" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../clinic/pom.xml" />
-    <property name="SearchEverywhereHistoryKey" value="Des&#9;PSI&#9;JAVA://com.mycompany.school.web.DesignationController&#10;StaffLeav&#9;FILE&#9;file:///Users/singhr08/workspace/school/src/main/java/com/mycompany/school/domain/StaffLeave.java&#10;log.roo&#9;FILE&#9;file:///Users/singhr08/workspace/school/log.roo&#10;Sta&#9;FILE&#9;file:///Users/singhr08/workspace/school/src/main/java/com/mycompany/school/web/StaffLeaveController.java&#10;AttendenceSheetDataOnDemand_Roo_DataOnDemand.aj&#9;FILE&#9;file:///Users/singhr08/workspace/school/src/test/java/com/mycompany/school/domain/AttendenceSheetDataOnDemand_Roo_DataOnDemand.aj&#10;Staff&#9;FILE&#9;file:///Users/singhr08/workspace/school/src/main/java/com/mycompany/school/domain/Staff.java&#10;AttendenceSheet_Roo_JavaBean.aj&#9;FILE&#9;file:///Users/singhr08/workspace/school/src/main/java/com/mycompany/school/domain/AttendenceSheet_Roo_JavaBean.aj&#10;Studen&#9;FILE&#9;file:///Users/singhr08/workspace/school/src/main/java/com/mycompany/school/web/StudentAttendenceController.java&#10;Staf&#9;FILE&#9;file:///Users/singhr08/workspace/school/src/main/java/com/mycompany/school/domain/Staff.java&#10;LeaveCo&#9;PSI&#9;JAVA://com.mycompany.school.web.StaffLeaveController&#10;colum&#9;FILE&#9;file:///Users/singhr08/workspace/school/src/main/webapp/WEB-INF/tags/form/fields/column.tagx&#10;app&#9;FILE&#9;file:///Users/singhr08/workspace/school/src/main/webapp/WEB-INF/i18n/application.properties&#10;Stude&#9;FILE&#9;file:///Users/singhr08/workspace/school/src/main/java/com/mycompany/school/domain/Student.java&#10;Atte&#9;FILE&#9;file:///Users/singhr08/workspace/school/src/main/java/com/mycompany/school/domain/AttendenceSheet.java&#10;menu&#9;FILE&#9;file:///Users/singhr08/workspace/school/src/main/webapp/WEB-INF/views/menu-panel.jspx&#10;StaffA&#9;PSI&#9;JAVA://com.mycompany.school.web.StaffAttendenceController&#10;men&#9;FILE&#9;file:///Users/singhr08/workspace/school/src/main/webapp/WEB-INF/views/menu-panel.jspx&#10;li&#9;FILE&#9;file:///Users/singhr08/workspace/school/src/main/webapp/WEB-INF/views/studentattendences/list-sheets.jspx&#10;Student&#9;PSI&#9;JAVA://com.mycompany.school.domain.Student&#10;Abstra&#9;FILE&#9;file:///Users/singhr08/workspace/school/src/main/java/com/mycompany/school/domain/AbstractPerson.java&#10;Attenden&#9;FILE&#9;file:///Users/singhr08/workspace/school/src/main/java/com/mycompany/school/domain/Attendence.java&#10;me&#9;FILE&#9;file:///Users/singhr08/workspace/school/src/main/webapp/WEB-INF/views/menu-panel.jspx&#10;mess&#9;FILE&#9;file:///Users/singhr08/workspace/school/src/main/webapp/WEB-INF/i18n/messages.properties&#10;data&#9;FILE&#9;file:///Users/singhr08/workspace/school/src/main/resources/META-INF/spring/database.properties&#10;log.r&#9;FILE&#9;file:///Users/singhr08/workspace/school/log.roo&#10;StudentCla&#9;PSI&#9;JAVA://com.mycompany.school.domain.StudentClass&#10;Abstr&#9;FILE&#9;file:///Users/singhr08/workspace/school/src/main/java/com/mycompany/school/domain/AbstractPerson.java&#10;AttendenceSh&#9;PSI&#9;JAVA://com.mycompany.school.domain.AttendenceSheet&#10;proper&#9;FILE&#9;file:///Users/singhr08/workspace/school/src/main/webapp/WEB-INF/i18n/application.properties&#10;dat&#9;FILE&#9;file:///Users/singhr08/workspace/school/src/main/resources/META-INF/spring/database.properties&#10;persis&#9;FILE&#9;file:///Users/singhr08/workspace/school/src/main/resources/META-INF/persistence.xml&#10;A&#9;FILE&#9;file:///Users/singhr08/workspace/school/src/main/java/com/mycompany/school/domain/AttendenceSheet.java&#10;&#9;FILE&#9;file:///Users/singhr08/workspace/school/src/main/java/com/mycompany/school/web/StudentAttendenceController.java&#10;database&#9;FILE&#9;file:///Users/singhr08/workspace/school/src/main/resources/META-INF/spring/database.properties&#10;crea&#9;FILE&#9;file:///Users/singhr08/workspace/school/src/main/webapp/WEB-INF/views/studentattendences/create-sheet.jspx&#10;persiste&#9;FILE&#9;file:///Users/singhr08/workspace/school/src/main/resources/META-INF/persistence.xml&#10;respo&#9;FILE&#9;file:///Users/singhr08/workspace/school/src/main/webapp/styles/responsive.css&#10;AP&#9;FILE&#9;file:///Users/singhr08/workspace/school/src/main/java/com/mycompany/school/domain/AbstractPerson.java&#10;AttendenceFo&#9;FILE&#9;file:///Users/singhr08/workspace/school/src/main/java/com/mycompany/school/web/form/AttendenceForm.java&#10;log&#9;FILE&#9;file:///Users/singhr08/workspace/school/log.roo&#10;Stud&#9;FILE&#9;file:///Users/singhr08/workspace/school/src/main/java/com/mycompany/school/web/StudentAttendenceController.java&#10;responsive&#9;FILE&#9;file:///Users/singhr08/workspace/school/src/main/webapp/styles/responsive.css&#10;messa&#9;FILE&#9;file:///Users/singhr08/workspace/school/src/main/webapp/WEB-INF/i18n/messages.properties&#10;Att&#9;FILE&#9;file:///Users/singhr08/workspace/school/src/main/java/com/mycompany/school/domain/Attendence.java&#10;create&#9;FILE&#9;file:///Users/singhr08/workspace/school/src/main/webapp/WEB-INF/views/attendences/create.jspx&#10;pane&#9;FILE&#9;file:///Users/singhr08/workspace/school/src/main/webapp/WEB-INF/views/menu-panel.jspx&#10;pers&#9;FILE&#9;file:///Users/singhr08/workspace/school/src/main/resources/META-INF/persistence.xml&#10;secu&#9;FILE&#9;file:///Users/singhr08/workspace/school/src/main/resources/META-INF/spring/applicationContext-security.xml&#10;persi&#9;FILE&#9;file:///Users/singhr08/workspace/school/src/main/resources/META-INF/persistence.xml&#10;load&#9;FILE&#9;file:///Users/singhr08/workspace/school/src/main/webapp/WEB-INF/tags/util/load-scripts.tagx" />
+    <property name="SearchEverywhereHistoryKey" value="data&#9;FILE&#9;file:///Users/singhr08/workspace/school/src/main/resources/META-INF/spring/database.properties&#10;Des&#9;PSI&#9;JAVA://com.mycompany.school.web.DesignationController&#10;StaffLeav&#9;FILE&#9;file:///Users/singhr08/workspace/school/src/main/java/com/mycompany/school/domain/StaffLeave.java&#10;log.roo&#9;FILE&#9;file:///Users/singhr08/workspace/school/log.roo&#10;Sta&#9;FILE&#9;file:///Users/singhr08/workspace/school/src/main/java/com/mycompany/school/web/StaffLeaveController.java&#10;AttendenceSheetDataOnDemand_Roo_DataOnDemand.aj&#9;FILE&#9;file:///Users/singhr08/workspace/school/src/test/java/com/mycompany/school/domain/AttendenceSheetDataOnDemand_Roo_DataOnDemand.aj&#10;Staff&#9;FILE&#9;file:///Users/singhr08/workspace/school/src/main/java/com/mycompany/school/domain/Staff.java&#10;AttendenceSheet_Roo_JavaBean.aj&#9;FILE&#9;file:///Users/singhr08/workspace/school/src/main/java/com/mycompany/school/domain/AttendenceSheet_Roo_JavaBean.aj&#10;Studen&#9;FILE&#9;file:///Users/singhr08/workspace/school/src/main/java/com/mycompany/school/web/StudentAttendenceController.java&#10;Staf&#9;FILE&#9;file:///Users/singhr08/workspace/school/src/main/java/com/mycompany/school/domain/Staff.java&#10;LeaveCo&#9;PSI&#9;JAVA://com.mycompany.school.web.StaffLeaveController&#10;colum&#9;FILE&#9;file:///Users/singhr08/workspace/school/src/main/webapp/WEB-INF/tags/form/fields/column.tagx&#10;app&#9;FILE&#9;file:///Users/singhr08/workspace/school/src/main/webapp/WEB-INF/i18n/application.properties&#10;Stude&#9;FILE&#9;file:///Users/singhr08/workspace/school/src/main/java/com/mycompany/school/domain/Student.java&#10;Atte&#9;FILE&#9;file:///Users/singhr08/workspace/school/src/main/java/com/mycompany/school/domain/AttendenceSheet.java&#10;menu&#9;FILE&#9;file:///Users/singhr08/workspace/school/src/main/webapp/WEB-INF/views/menu-panel.jspx&#10;StaffA&#9;PSI&#9;JAVA://com.mycompany.school.web.StaffAttendenceController&#10;men&#9;FILE&#9;file:///Users/singhr08/workspace/school/src/main/webapp/WEB-INF/views/menu-panel.jspx&#10;li&#9;FILE&#9;file:///Users/singhr08/workspace/school/src/main/webapp/WEB-INF/views/studentattendences/list-sheets.jspx&#10;Student&#9;PSI&#9;JAVA://com.mycompany.school.domain.Student&#10;Abstra&#9;FILE&#9;file:///Users/singhr08/workspace/school/src/main/java/com/mycompany/school/domain/AbstractPerson.java&#10;Attenden&#9;FILE&#9;file:///Users/singhr08/workspace/school/src/main/java/com/mycompany/school/domain/Attendence.java&#10;me&#9;FILE&#9;file:///Users/singhr08/workspace/school/src/main/webapp/WEB-INF/views/menu-panel.jspx&#10;mess&#9;FILE&#9;file:///Users/singhr08/workspace/school/src/main/webapp/WEB-INF/i18n/messages.properties&#10;log.r&#9;FILE&#9;file:///Users/singhr08/workspace/school/log.roo&#10;StudentCla&#9;PSI&#9;JAVA://com.mycompany.school.domain.StudentClass&#10;Abstr&#9;FILE&#9;file:///Users/singhr08/workspace/school/src/main/java/com/mycompany/school/domain/AbstractPerson.java&#10;AttendenceSh&#9;PSI&#9;JAVA://com.mycompany.school.domain.AttendenceSheet&#10;proper&#9;FILE&#9;file:///Users/singhr08/workspace/school/src/main/webapp/WEB-INF/i18n/application.properties&#10;dat&#9;FILE&#9;file:///Users/singhr08/workspace/school/src/main/resources/META-INF/spring/database.properties&#10;persis&#9;FILE&#9;file:///Users/singhr08/workspace/school/src/main/resources/META-INF/persistence.xml&#10;A&#9;FILE&#9;file:///Users/singhr08/workspace/school/src/main/java/com/mycompany/school/domain/AttendenceSheet.java&#10;&#9;FILE&#9;file:///Users/singhr08/workspace/school/src/main/java/com/mycompany/school/web/StudentAttendenceController.java&#10;database&#9;FILE&#9;file:///Users/singhr08/workspace/school/src/main/resources/META-INF/spring/database.properties&#10;crea&#9;FILE&#9;file:///Users/singhr08/workspace/school/src/main/webapp/WEB-INF/views/studentattendences/create-sheet.jspx&#10;persiste&#9;FILE&#9;file:///Users/singhr08/workspace/school/src/main/resources/META-INF/persistence.xml&#10;respo&#9;FILE&#9;file:///Users/singhr08/workspace/school/src/main/webapp/styles/responsive.css&#10;AP&#9;FILE&#9;file:///Users/singhr08/workspace/school/src/main/java/com/mycompany/school/domain/AbstractPerson.java&#10;AttendenceFo&#9;FILE&#9;file:///Users/singhr08/workspace/school/src/main/java/com/mycompany/school/web/form/AttendenceForm.java&#10;log&#9;FILE&#9;file:///Users/singhr08/workspace/school/log.roo&#10;Stud&#9;FILE&#9;file:///Users/singhr08/workspace/school/src/main/java/com/mycompany/school/web/StudentAttendenceController.java&#10;responsive&#9;FILE&#9;file:///Users/singhr08/workspace/school/src/main/webapp/styles/responsive.css&#10;messa&#9;FILE&#9;file:///Users/singhr08/workspace/school/src/main/webapp/WEB-INF/i18n/messages.properties&#10;Att&#9;FILE&#9;file:///Users/singhr08/workspace/school/src/main/java/com/mycompany/school/domain/Attendence.java&#10;create&#9;FILE&#9;file:///Users/singhr08/workspace/school/src/main/webapp/WEB-INF/views/attendences/create.jspx&#10;pane&#9;FILE&#9;file:///Users/singhr08/workspace/school/src/main/webapp/WEB-INF/views/menu-panel.jspx&#10;pers&#9;FILE&#9;file:///Users/singhr08/workspace/school/src/main/resources/META-INF/persistence.xml&#10;secu&#9;FILE&#9;file:///Users/singhr08/workspace/school/src/main/resources/META-INF/spring/applicationContext-security.xml&#10;persi&#9;FILE&#9;file:///Users/singhr08/workspace/school/src/main/resources/META-INF/persistence.xml&#10;load&#9;FILE&#9;file:///Users/singhr08/workspace/school/src/main/webapp/WEB-INF/tags/util/load-scripts.tagx" />
     <property name="LayoutCode.rearrangeEntriesPlain text" value="false" />
     <property name="LayoutCode.rearrangeEntriesHTML" value="false" />
     <property name="options.lastSelected" value="project.propCompiler" />
@@ -961,7 +961,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1280" height="708" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -970,7 +970,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32854864" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.49188313" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.41883117" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.41883117" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32854864" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -1089,22 +1089,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/school/web/ApplicationConversionServiceFactoryBean.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="584" max-vertical-offset="960">
-          <caret line="57" column="141" selection-start-line="57" selection-start-column="141" selection-end-line="57" selection-end-column="141" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#982#1235#0" expanded="true" />
-            <element signature="e#1224#1225#0" expanded="true" />
-            <element signature="e#1423#1745#0" expanded="true" />
-            <element signature="e#1734#1735#0" expanded="true" />
-            <element signature="e#1836#2168#0" expanded="true" />
-            <element signature="e#2157#2158#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/studentclasses/show.jspx">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="210">
@@ -1517,6 +1501,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="450">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/META-INF/spring/database.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.57471263" vertical-offset="0" max-vertical-offset="261">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
           <folding />
         </state>
       </provider>
