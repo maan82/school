@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<div xmlns:jsp="http://java.sun.com/JSP/Page" xmlns:page="urn:jsptagdir:/WEB-INF/tags/form" xmlns:table="urn:jsptagdir:/WEB-INF/tags/form/fields" version="2.0">
+    <jsp:directive.page contentType="text/html;charset=UTF-8"/>
+    <jsp:output omit-xml-declaration="yes"/>
+    <page:list id="pl_com_mycompany_school_domain_LeaveType" items="${leavetypes}" z="WAFU+mZ1ANvgGzVQrtbX3O8Uy6s=">
+        <table:table data="${leavetypes}" id="l_com_mycompany_school_domain_LeaveType" path="/leavetypes" z="4he5KdT57XnyqylrWQSbtrm0wx4=">
+            <table:column id="c_com_mycompany_school_domain_LeaveType_name" property="name" z="l6tswhlavFUt5rjHFbGVqc2yiv8="/>
+        </table:table>
+    </page:list>
+</div>

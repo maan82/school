@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<div xmlns:field="urn:jsptagdir:/WEB-INF/tags/form/fields" xmlns:jsp="http://java.sun.com/JSP/Page" xmlns:page="urn:jsptagdir:/WEB-INF/tags/form" version="2.0">
+    <jsp:directive.page contentType="text/html;charset=UTF-8"/>
+    <jsp:output omit-xml-declaration="yes"/>
+    <page:show id="ps_com_mycompany_school_domain_Staff" object="${staff}" path="/staffs" z="BVhYg1ft4DuuXES5zBJ6qa4ZpTE=">
+        <field:display field="firstName" id="s_com_mycompany_school_domain_Staff_firstName" object="${staff}" z="PuroauNIZDlBvgJgQAwiu/pl4QM="/>
+        <field:display field="lastName" id="s_com_mycompany_school_domain_Staff_lastName" object="${staff}" z="s6Xaj0NymnNijqjTiP1RdVHUXdQ="/>
+        <field:display field="gender" id="s_com_mycompany_school_domain_Staff_gender" object="${staff}" z="DXPX1tfhUOgFSGJRmVZLpIQyOSo="/>
+        <field:display field="fatherName" id="s_com_mycompany_school_domain_Staff_fatherName" object="${staff}" z="ebhculFYhuhuhdBIIL3RPV37AKY="/>
+        <field:display field="motherName" id="s_com_mycompany_school_domain_Staff_motherName" object="${staff}" z="J1FhR/egck6WeXmAy1zWilBlGMk="/>
+        <field:display date="true" dateTimePattern="${staff_dateofbirth_date_format}" field="dateOfBirth" id="s_com_mycompany_school_domain_Staff_dateOfBirth" object="${staff}" z="Eto1nrEDvwoKJJdQ2qm8rYnTApo="/>
+        <field:display field="qualification" id="s_com_mycompany_school_domain_Staff_qualification" object="${staff}" z="cbOB1sdgjrxGn8WdEgJqRMmD8tA="/>
+        <field:display date="true" dateTimePattern="${staff_joiningdate_date_format}" field="joiningDate" id="s_com_mycompany_school_domain_Staff_joiningDate" object="${staff}" z="2jY1Wde6ENJB3TCNnDUeW/kW6R8="/>
+        <field:display field="designation" id="s_com_mycompany_school_domain_Staff_designation" object="${staff}" z="HJ+5aBherLY5x5wl/xthwQ7pGXY="/>
+        <field:display field="emailId" id="s_com_mycompany_school_domain_Staff_emailId" object="${staff}" z="xA1DKptKACjQqCiyyYrJXD19Hpo="/>
+        <field:display field="address" id="s_com_mycompany_school_domain_Staff_address" object="${staff}" z="rLouwDDlgaknOpocwWPK31CAnu0="/>
+        <field:display field="city" id="s_com_mycompany_school_domain_Staff_city" object="${staff}" z="QK4MvkS+QRvTOZCtfbaP/nvyNb4="/>
+        <field:display field="countryState" id="s_com_mycompany_school_domain_Staff_countryState" object="${staff}" z="c1FZpYzkBmIUiLa+w9ITKz3aZbs="/>
+        <field:display field="country" id="s_com_mycompany_school_domain_Staff_country" object="${staff}" z="nWCXV0UNI6CxmRnJlLL6McRimwQ="/>
+        <field:display field="mobile" id="s_com_mycompany_school_domain_Staff_mobile" object="${staff}" z="Nyw0pByv9ixD7t3vQJxf5Y0HhCk="/>
+        <field:display field="pincode" id="s_com_mycompany_school_domain_Staff_pincode" object="${staff}" z="uMQGyLGAVxfZyr9J6C539O+7he8="/>
+        <field:display field="enabled" id="s_com_mycompany_school_domain_Staff_enabled" object="${staff}" z="8JCuhbAwj8/P9rObHu2NcNAi2ZE="/>
+        <field:display field="passwordSHA" id="s_com_mycompany_school_domain_Staff_passwordSHA" object="${staff}" z="WNSe4WGjiF0r0j2vYf8hQ/a7C+o="/>
+        <field:display field="personRoles" id="s_com_mycompany_school_domain_Staff_personRoles" object="${staff}" z="MAFnFGDygBk5QrXLTQ5X2KPJxZ8="/>
+    </page:show>
+</div>

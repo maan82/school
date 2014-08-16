@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<div xmlns:jsp="http://java.sun.com/JSP/Page" xmlns:page="urn:jsptagdir:/WEB-INF/tags/form" xmlns:table="urn:jsptagdir:/WEB-INF/tags/form/fields" version="2.0">
+    <jsp:directive.page contentType="text/html;charset=UTF-8"/>
+    <jsp:output omit-xml-declaration="yes"/>
+    <page:list id="pl_com_mycompany_school_domain_AbstractPerson" items="${abstractpeople}" z="SE1QUD6CbCx8QV9IsHfLXNMI660=">
+        <table:table data="${abstractpeople}" id="l_com_mycompany_school_domain_AbstractPerson" path="/abstractpeople" z="fsiLk/k1JXsBUH7G5nRjmHkanq0=">
+            <table:column id="c_com_mycompany_school_domain_AbstractPerson_firstName" property="firstName" z="pg63O8IGAls360ojN4bLLiGIXhI="/>
+            <table:column id="c_com_mycompany_school_domain_AbstractPerson_lastName" property="lastName" z="dPRxvWkZx2am2G5wpa7URQ7WhUA="/>
+            <table:column id="c_com_mycompany_school_domain_AbstractPerson_gender" property="gender" z="o6u9mNz9dJgmuVzj3tpCzeqSnvQ="/>
+            <table:column id="c_com_mycompany_school_domain_AbstractPerson_fatherName" property="fatherName" z="YngqDelrzQshdsMnMJNQe29L4zI="/>
+            <table:column id="c_com_mycompany_school_domain_AbstractPerson_motherName" property="motherName" z="kwnmcEQZ+yTLeWj23GHs5A3Y0vQ="/>
+            <table:column date="true" dateTimePattern="${abstractPerson_dateofbirth_date_format}" id="c_com_mycompany_school_domain_AbstractPerson_dateOfBirth" property="dateOfBirth" z="n1Vu2m9hmbcLCSwQNUuukbBgDqk="/>
+        </table:table>
+    </page:list>
+</div>

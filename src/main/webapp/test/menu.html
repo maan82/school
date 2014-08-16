@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html >
+<head>
+
+  <link rel="stylesheet" href="/resources/dbootstrap/theme/dbootstrap/dbootstrap.css">
+
+  <script>dojoConfig = {async: true, parseOnLoad: true}</script>
+  <script src='/resources/dojo/dojo.js'></script>
+
+  <script>
+require(["dojo/parser", "dijit/MenuBar", "dijit/MenuBarItem", "dijit/PopupMenuBarItem",
+    "dijit/DropDownMenu", "dijit/MenuItem"]);
+	</script>
+</head>
+<body class="claro">
+<div data-dojo-type="dijit/MenuBar" id="navMenu">
+  <div data-dojo-type="dijit/PopupMenuBarItem">
+    <span>File</span>
+    <div data-dojo-type="dijit/DropDownMenu" id="fileMenu">
+      <div data-dojo-type="dijit/MenuItem" data-dojo-props="onClick:function(){alert('file 1');}">File #1</div>
+      <div data-dojo-type="dijit/MenuItem" data-dojo-props="onClick:function(){alert('file 2');}">File #2</div>
+    </div>
+  </div>
+  <div data-dojo-type="dijit/PopupMenuBarItem">
+    <span>Edit</span>
+    <div data-dojo-type="dijit/DropDownMenu" id="editMenu">
+      <div data-dojo-type="dijit/MenuItem" data-dojo-props="iconClass:'dijitEditorIcon dijitEditorIconCut',
+                                    onClick:function(){alert('cut!')}">Cut</div>
+      <div data-dojo-type="dijit/MenuItem" data-dojo-props="iconClass:'dijitEditorIcon dijitEditorIconCopy',
+                                    onClick:function(){alert('copy!')}">Copy</div>
+      <div data-dojo-type="dijit/MenuItem" data-dojo-props="iconClass:'dijitEditorIcon dijitEditorIconPaste',
+                                    onClick:function(){alert('paste!')}">Paste</div>
+    </div>
+  </div>
+  <div data-dojo-type="dijit/MenuBarItem">
+    Save
+  </div>
+</div>
+</body>
+</html>

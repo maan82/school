@@ -1,0 +1,1721 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="975966d0-0741-416c-b815-39df0d4d18fa" name="Default" comment="" />
+    <ignored path="school.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="COMPILER_PROCESS_HEAP_SIZE" value="1024" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="school" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="StudentLeaveController.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/school/web/StudentLeaveController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="210">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StudentLeaveController_Roo_Controller.aj" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/school/web/StudentLeaveController_Roo_Controller.aj">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="810" max-vertical-offset="1830">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="webmvc-config.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/spring/webmvc-config.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="716" max-vertical-offset="1245">
+              <caret line="71" column="61" selection-start-line="71" selection-start-column="50" selection-end-line="71" selection-end-column="50" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="create.jspx" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/attendencesheets/create.jspx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
+              <caret line="9" column="101" selection-start-line="9" selection-start-column="56" selection-end-line="9" selection-end-column="101" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="create.jspx" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/abstractpeople/create.jspx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="450">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="create.jspx" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/designations/create.jspx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="14" max-vertical-offset="240">
+              <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DesignationController.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/school/web/DesignationController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="210">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DesignationController_Roo_Controller.aj" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/school/web/DesignationController_Roo_Controller.aj">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="1144" max-vertical-offset="1650">
+              <caret line="1" column="18" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AttendenceSheetController_Roo_Controller.aj" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/school/web/AttendenceSheetController_Roo_Controller.aj">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="480" max-vertical-offset="1755">
+              <caret line="42" column="29" selection-start-line="42" selection-start-column="29" selection-end-line="42" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dependency.tagx" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/tags/form/dependency.tagx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="450">
+              <caret line="19" column="24" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="true" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/mycompany/school/domain/StudentAttendence.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mycompany/school/domain/AbstractAttendence.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mycompany/school/web/form/AttendenceForm.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/com/mycompany/school/domain/StudentDataOnDemand.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/styles/responsive.css" />
+        <option value="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/studentattendences/create-sheet.jspx" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/studentattendences/search.jspx" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/staffs/views.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mycompany/school/domain/AbstractPerson.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/META-INF/spring/applicationContext-security.xml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/studentattendences/list-sheet.jspx" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/studentattendences/views.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/META-INF/spring/database.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mycompany/school/web/form/AttendenceSearchForm.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/i18n/messages.properties" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/studentattendences/findAttendenceSheetByClassAndSection.jspx" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/tags/form/find.tagx" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/tags/util/load-scripts.tagx" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/attendencesheets/list.jspx" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/attendencesheets/show.jspx" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mycompany/school/domain/Staff.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/studentattendences/list.jspx" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mycompany/school/web/ApplicationConversionServiceFactoryBean.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/studentattendences/list-sheets.jspx" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mycompany/school/domain/Attendence.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/tags/form/fields/table.tagx" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/i18n/application.properties" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/menu-panel.jspx" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/staffattendences/views.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mycompany/school/domain/AttendenceSheet_Roo_Jpa_ActiveRecord.aj" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/staffattendences/list-sheets.jspx" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/staffattendences/show.jspx" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/studentattendences/show.jspx" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mycompany/school/domain/AttendenceSheet.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mycompany/school/web/StudentAttendenceController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mycompany/school/domain/Student.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/staffattendences/create-sheet.jspx" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mycompany/school/web/StaffAttendenceController.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/staffs/list.jspx" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/staffs/create.jspx" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/staffs/update.jspx" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mycompany/school/domain/StaffLeave.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mycompany/school/web/StaffLeaveController.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/staffleaves/create.jspx" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mycompany/school/domain/AttendenceSheet_Roo_JavaBean.aj" />
+        <option value="$PROJECT_DIR$/src/test/java/com/mycompany/school/domain/AttendenceSheetDataOnDemand_Roo_DataOnDemand.aj" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mycompany/school/web/StudentLeaveController.java" />
+        <option value="$PROJECT_DIR$/log.roo" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mycompany/school/domain/StudentLeave.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="school" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="school" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Plugins" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$PluginsNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="school" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Plugins" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$PluginsNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="jetty" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$PluginNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Profiles" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProfilesNode" />
+        </PATH_ELEMENT>
+      </PATH>
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="22" />
+    <option name="width" value="1280" />
+    <option name="height" value="708" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="school" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="school" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="school" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="school" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="school" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="school" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="school" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WEB-INF" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="school" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="school" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WEB-INF" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="school" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="school" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WEB-INF" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="abstractpeople" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="school" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="school" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WEB-INF" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spring" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="school" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="school" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="school" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="school" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="school" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="school" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="META-INF" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="school" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="school" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="META-INF" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spring" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="school" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="school" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="school" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="school" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="school" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="school" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../clinic/pom.xml" />
+    <property name="SearchEverywhereHistoryKey" value="Des&#9;PSI&#9;JAVA://com.mycompany.school.web.DesignationController&#10;StaffLeav&#9;FILE&#9;file:///Users/singhr08/workspace/school/src/main/java/com/mycompany/school/domain/StaffLeave.java&#10;log.roo&#9;FILE&#9;file:///Users/singhr08/workspace/school/log.roo&#10;Sta&#9;FILE&#9;file:///Users/singhr08/workspace/school/src/main/java/com/mycompany/school/web/StaffLeaveController.java&#10;AttendenceSheetDataOnDemand_Roo_DataOnDemand.aj&#9;FILE&#9;file:///Users/singhr08/workspace/school/src/test/java/com/mycompany/school/domain/AttendenceSheetDataOnDemand_Roo_DataOnDemand.aj&#10;Staff&#9;FILE&#9;file:///Users/singhr08/workspace/school/src/main/java/com/mycompany/school/domain/Staff.java&#10;AttendenceSheet_Roo_JavaBean.aj&#9;FILE&#9;file:///Users/singhr08/workspace/school/src/main/java/com/mycompany/school/domain/AttendenceSheet_Roo_JavaBean.aj&#10;Studen&#9;FILE&#9;file:///Users/singhr08/workspace/school/src/main/java/com/mycompany/school/web/StudentAttendenceController.java&#10;Staf&#9;FILE&#9;file:///Users/singhr08/workspace/school/src/main/java/com/mycompany/school/domain/Staff.java&#10;LeaveCo&#9;PSI&#9;JAVA://com.mycompany.school.web.StaffLeaveController&#10;colum&#9;FILE&#9;file:///Users/singhr08/workspace/school/src/main/webapp/WEB-INF/tags/form/fields/column.tagx&#10;app&#9;FILE&#9;file:///Users/singhr08/workspace/school/src/main/webapp/WEB-INF/i18n/application.properties&#10;Stude&#9;FILE&#9;file:///Users/singhr08/workspace/school/src/main/java/com/mycompany/school/domain/Student.java&#10;Atte&#9;FILE&#9;file:///Users/singhr08/workspace/school/src/main/java/com/mycompany/school/domain/AttendenceSheet.java&#10;menu&#9;FILE&#9;file:///Users/singhr08/workspace/school/src/main/webapp/WEB-INF/views/menu-panel.jspx&#10;StaffA&#9;PSI&#9;JAVA://com.mycompany.school.web.StaffAttendenceController&#10;men&#9;FILE&#9;file:///Users/singhr08/workspace/school/src/main/webapp/WEB-INF/views/menu-panel.jspx&#10;li&#9;FILE&#9;file:///Users/singhr08/workspace/school/src/main/webapp/WEB-INF/views/studentattendences/list-sheets.jspx&#10;Student&#9;PSI&#9;JAVA://com.mycompany.school.domain.Student&#10;Abstra&#9;FILE&#9;file:///Users/singhr08/workspace/school/src/main/java/com/mycompany/school/domain/AbstractPerson.java&#10;Attenden&#9;FILE&#9;file:///Users/singhr08/workspace/school/src/main/java/com/mycompany/school/domain/Attendence.java&#10;me&#9;FILE&#9;file:///Users/singhr08/workspace/school/src/main/webapp/WEB-INF/views/menu-panel.jspx&#10;mess&#9;FILE&#9;file:///Users/singhr08/workspace/school/src/main/webapp/WEB-INF/i18n/messages.properties&#10;data&#9;FILE&#9;file:///Users/singhr08/workspace/school/src/main/resources/META-INF/spring/database.properties&#10;log.r&#9;FILE&#9;file:///Users/singhr08/workspace/school/log.roo&#10;StudentCla&#9;PSI&#9;JAVA://com.mycompany.school.domain.StudentClass&#10;Abstr&#9;FILE&#9;file:///Users/singhr08/workspace/school/src/main/java/com/mycompany/school/domain/AbstractPerson.java&#10;AttendenceSh&#9;PSI&#9;JAVA://com.mycompany.school.domain.AttendenceSheet&#10;proper&#9;FILE&#9;file:///Users/singhr08/workspace/school/src/main/webapp/WEB-INF/i18n/application.properties&#10;dat&#9;FILE&#9;file:///Users/singhr08/workspace/school/src/main/resources/META-INF/spring/database.properties&#10;persis&#9;FILE&#9;file:///Users/singhr08/workspace/school/src/main/resources/META-INF/persistence.xml&#10;A&#9;FILE&#9;file:///Users/singhr08/workspace/school/src/main/java/com/mycompany/school/domain/AttendenceSheet.java&#10;&#9;FILE&#9;file:///Users/singhr08/workspace/school/src/main/java/com/mycompany/school/web/StudentAttendenceController.java&#10;database&#9;FILE&#9;file:///Users/singhr08/workspace/school/src/main/resources/META-INF/spring/database.properties&#10;crea&#9;FILE&#9;file:///Users/singhr08/workspace/school/src/main/webapp/WEB-INF/views/studentattendences/create-sheet.jspx&#10;persiste&#9;FILE&#9;file:///Users/singhr08/workspace/school/src/main/resources/META-INF/persistence.xml&#10;respo&#9;FILE&#9;file:///Users/singhr08/workspace/school/src/main/webapp/styles/responsive.css&#10;AP&#9;FILE&#9;file:///Users/singhr08/workspace/school/src/main/java/com/mycompany/school/domain/AbstractPerson.java&#10;AttendenceFo&#9;FILE&#9;file:///Users/singhr08/workspace/school/src/main/java/com/mycompany/school/web/form/AttendenceForm.java&#10;log&#9;FILE&#9;file:///Users/singhr08/workspace/school/log.roo&#10;Stud&#9;FILE&#9;file:///Users/singhr08/workspace/school/src/main/java/com/mycompany/school/web/StudentAttendenceController.java&#10;responsive&#9;FILE&#9;file:///Users/singhr08/workspace/school/src/main/webapp/styles/responsive.css&#10;messa&#9;FILE&#9;file:///Users/singhr08/workspace/school/src/main/webapp/WEB-INF/i18n/messages.properties&#10;Att&#9;FILE&#9;file:///Users/singhr08/workspace/school/src/main/java/com/mycompany/school/domain/Attendence.java&#10;create&#9;FILE&#9;file:///Users/singhr08/workspace/school/src/main/webapp/WEB-INF/views/attendences/create.jspx&#10;pane&#9;FILE&#9;file:///Users/singhr08/workspace/school/src/main/webapp/WEB-INF/views/menu-panel.jspx&#10;pers&#9;FILE&#9;file:///Users/singhr08/workspace/school/src/main/resources/META-INF/persistence.xml&#10;secu&#9;FILE&#9;file:///Users/singhr08/workspace/school/src/main/resources/META-INF/spring/applicationContext-security.xml&#10;persi&#9;FILE&#9;file:///Users/singhr08/workspace/school/src/main/resources/META-INF/persistence.xml&#10;load&#9;FILE&#9;file:///Users/singhr08/workspace/school/src/main/webapp/WEB-INF/tags/util/load-scripts.tagx" />
+    <property name="LayoutCode.rearrangeEntriesPlain text" value="false" />
+    <property name="LayoutCode.rearrangeEntriesHTML" value="false" />
+    <property name="options.lastSelected" value="project.propCompiler" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="recentsLimit" value="5" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="FullScreen" value="false" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.mycompany.school.web" />
+      <recent name="com.mycompany.school.reference" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/staffattendences" />
+      <recent name="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/studentattendences" />
+      <recent name="$PROJECT_DIR$/src/main/webapp/WEB-INF/tags/form/fields" />
+      <recent name="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/attendences" />
+      <recent name="$PROJECT_DIR$/src/main/webapp/WEB-INF/tags/menu" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Maven.school [jetty:run]">
+    <configuration default="false" name="school [jetty:run]" type="MavenRunConfiguration" factoryName="Maven" temporary="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="jetty:run" />
+              </list>
+            </option>
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="school [jetty:run-forked]" type="MavenRunConfiguration" factoryName="Maven" temporary="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="jetty:run-forked" />
+              </list>
+            </option>
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <ConfigurationWrapper RunnerId="Debug" />
+      <method />
+    </configuration>
+    <configuration default="false" name="school [jetty:run-exploded]" type="MavenRunConfiguration" factoryName="Maven" temporary="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="jetty:run-exploded" />
+              </list>
+            </option>
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <ConfigurationWrapper RunnerId="Debug" />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list />
+            </option>
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Specs2RunConfiguration" factoryName="Specs2">
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="$PROJECT_DIR$" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="uTestRunConfiguration" factoryName="utest">
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="$PROJECT_DIR$" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="ScalaTestRunConfiguration" factoryName="ScalaTest">
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="$PROJECT_DIR$" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <method />
+    </configuration>
+    <list size="3">
+      <item index="0" class="java.lang.String" itemvalue="Maven.school [jetty:run]" />
+      <item index="1" class="java.lang.String" itemvalue="Maven.school [jetty:run-forked]" />
+      <item index="2" class="java.lang.String" itemvalue="Maven.school [jetty:run-exploded]" />
+    </list>
+    <recent_temporary>
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="Maven.school [jetty:run]" />
+        <item index="1" class="java.lang.String" itemvalue="Maven.school [jetty:run-exploded]" />
+        <item index="2" class="java.lang.String" itemvalue="Maven.school [jetty:run-forked]" />
+      </list>
+    </recent_temporary>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="975966d0-0741-416c-b815-39df0d4d18fa" name="Default" comment="" />
+      <created>1406047557657</created>
+      <updated>1406047557657</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView" selected-index="0">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="22" width="1280" height="708" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32854864" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.49188313" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.41883117" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32854864" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3262987" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32854864" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.10662359" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21324718" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32792208" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/mycompany/school/domain/Student.java</url>
+          <line>367</line>
+          <properties />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/mycompany/school/web/StudentAttendenceController.java</url>
+          <line>33</line>
+          <properties />
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/mycompany/school/web/StudentAttendenceController.java</url>
+          <line>40</line>
+          <properties />
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/mycompany/school/web/StaffController.java</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/mycompany/school/web/StudentAttendenceController.java</url>
+          <line>29</line>
+          <properties />
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/mycompany/school/web/StudentAttendenceController.java</url>
+          <line>46</line>
+          <properties />
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/mycompany/school/web/ApplicationConversionServiceFactoryBean.java</url>
+          <line>57</line>
+          <properties />
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/mycompany/school/domain/AttendenceSheet.java</url>
+          <line>45</line>
+          <properties />
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/mycompany/school/web/StaffAttendenceController.java</url>
+          <line>84</line>
+          <properties />
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/mycompany/school/web/StudentAttendenceController.java</url>
+          <line>106</line>
+          <properties />
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/mycompany/school/web/StudentAttendenceController.java</url>
+          <line>52</line>
+          <properties />
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/mycompany/school/web/StudentAttendenceController.java</url>
+          <line>72</line>
+          <properties />
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/mycompany/school/web/StaffAttendenceController.java</url>
+          <line>67</line>
+          <properties />
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="67" />
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/school/web/ApplicationConversionServiceFactoryBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="584" max-vertical-offset="960">
+          <caret line="57" column="141" selection-start-line="57" selection-start-column="141" selection-end-line="57" selection-end-column="141" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#982#1235#0" expanded="true" />
+            <element signature="e#1224#1225#0" expanded="true" />
+            <element signature="e#1423#1745#0" expanded="true" />
+            <element signature="e#1734#1735#0" expanded="true" />
+            <element signature="e#1836#2168#0" expanded="true" />
+            <element signature="e#2157#2158#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/studentclasses/show.jspx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="210">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/tags/form/show.tagx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1620">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/studentattendences/list.jspx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="285">
+          <caret line="1" column="145" selection-start-line="1" selection-start-column="91" selection-end-line="1" selection-end-column="145" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/school/domain/AttendenceSheet_Roo_Jpa_Entity.aj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="735">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/i18n/messages.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="210" max-vertical-offset="1710">
+          <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/school/domain/AbstractPerson.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1710">
+          <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/school/domain/StudentClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="375">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/school/domain/Attendence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2723" max-vertical-offset="3105">
+          <caret line="240" column="19" selection-start-line="240" selection-start-column="19" selection-end-line="240" selection-end-column="29" />
+          <folding>
+            <element signature="e#7770#7771#0" expanded="true" />
+            <element signature="e#7843#7844#0" expanded="true" />
+            <element signature="e#7886#7887#0" expanded="true" />
+            <element signature="e#7959#7960#0" expanded="true" />
+            <element signature="e#7994#7995#0" expanded="true" />
+            <element signature="e#8055#8056#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/tags/form/fields/table.tagx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.6538461" vertical-offset="1412" max-vertical-offset="3255">
+          <caret line="97" column="28" selection-start-line="97" selection-start-column="28" selection-end-line="97" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/menu-panel.jspx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="345" max-vertical-offset="1065">
+          <caret line="30" column="39" selection-start-line="30" selection-start-column="39" selection-end-line="30" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/studentattendences/views.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="167" max-vertical-offset="480">
+          <caret line="24" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/staffattendences/views.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="8" max-vertical-offset="390">
+          <caret line="15" column="54" selection-start-line="15" selection-start-column="54" selection-end-line="15" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/school/domain/AttendenceSheet_Roo_Jpa_ActiveRecord.aj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.0" vertical-offset="474" max-vertical-offset="1605">
+          <caret line="42" column="10" selection-start-line="42" selection-start-column="4" selection-end-line="42" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/staffattendences/list-sheets.jspx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="300">
+          <caret line="14" column="117" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/staffattendences/show.jspx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="315">
+          <caret line="8" column="95" selection-start-line="8" selection-start-column="95" selection-end-line="8" selection-end-column="95" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/studentattendences/show.jspx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="110" max-vertical-offset="420">
+          <caret line="11" column="97" selection-start-line="11" selection-start-column="97" selection-end-line="11" selection-end-column="97" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/studentattendences/list-sheets.jspx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="315">
+          <caret line="11" column="164" selection-start-line="11" selection-start-column="164" selection-end-line="11" selection-end-column="164" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/3.2.6.RELEASE/spring-web-3.2.6.RELEASE.jar!/org/springframework/web/method/support/InvocableHandlerMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.0" vertical-offset="305" max-vertical-offset="615">
+          <caret line="33" column="29" selection-start-line="33" selection-start-column="29" selection-end-line="33" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/school/domain/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="3925" max-vertical-offset="7065">
+          <caret line="305" column="0" selection-start-line="305" selection-start-column="0" selection-end-line="305" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/school/domain/AttendenceSheet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="775" max-vertical-offset="1545">
+          <caret line="58" column="0" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#832#844#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/staffattendences/create-sheet.jspx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="465" max-vertical-offset="825">
+          <caret line="14" column="56" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/school/domain/Designation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="131" max-vertical-offset="390">
+          <caret line="21" column="23" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/school/web/StaffController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="676" max-vertical-offset="1590">
+          <caret line="67" column="0" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/i18n/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.0" vertical-offset="717" max-vertical-offset="3675">
+          <caret line="53" column="45" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/tags/form/fields/column.tagx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="1185">
+          <caret line="6" column="38" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/tags/form/fields/select.tagx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3060">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/staffs/list.jspx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="300">
+          <caret line="7" column="125" selection-start-line="7" selection-start-column="113" selection-end-line="7" selection-end-column="125" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/staffs/create.jspx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="72" max-vertical-offset="495">
+          <caret line="13" column="170" selection-start-line="13" selection-start-column="170" selection-end-line="13" selection-end-column="170" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/staffs/update.jspx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="480">
+          <caret line="13" column="187" selection-start-line="13" selection-start-column="187" selection-end-line="13" selection-end-column="187" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/school/domain/AbstractPerson_Roo_JavaBean.aj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2220">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/school/web/StudentAttendenceController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1210" max-vertical-offset="2850">
+          <caret line="109" column="107" selection-start-line="109" selection-start-column="33" selection-end-line="109" selection-end-column="107" />
+          <folding>
+            <element signature="e#3498#3510#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/school/web/StaffAttendenceController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="353" max-vertical-offset="2085">
+          <caret line="49" column="49" selection-start-line="49" selection-start-column="36" selection-end-line="49" selection-end-column="49" />
+          <folding>
+            <element signature="e#2154#2166#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/staffleaves/create.jspx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="285">
+          <caret line="13" column="20" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/school/domain/AttendenceSheet_Roo_JavaBean.aj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="660">
+          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/school/domain/Staff.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="465">
+          <caret line="26" column="72" selection-start-line="26" selection-start-column="52" selection-end-line="26" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/mycompany/school/domain/AttendenceSheetDataOnDemand_Roo_DataOnDemand.aj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="13" max-vertical-offset="1635">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/school/web/StaffLeaveController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="27" max-vertical-offset="1605">
+          <caret line="30" column="71" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log.roo">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.840909" vertical-offset="2171" max-vertical-offset="5895">
+          <caret line="156" column="0" selection-start-line="145" selection-start-column="0" selection-end-line="152" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/school/domain/StaffLeave.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="314" max-vertical-offset="660">
+          <caret line="49" column="0" selection-start-line="35" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/school/domain/StudentLeave.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="29" max-vertical-offset="660">
+          <caret line="45" column="27" selection-start-line="45" selection-start-column="27" selection-end-line="45" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/school/web/StudentLeaveController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="210">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/school/web/StudentLeaveController_Roo_Controller.aj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="810" max-vertical-offset="1830">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/spring/webmvc-config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="716" max-vertical-offset="1245">
+          <caret line="71" column="61" selection-start-line="71" selection-start-column="50" selection-end-line="71" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/designations/create.jspx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="14" max-vertical-offset="240">
+          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/school/web/DesignationController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="210">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/school/web/DesignationController_Roo_Controller.aj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1144" max-vertical-offset="1650">
+          <caret line="1" column="18" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/tags/form/dependency.tagx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="450">
+          <caret line="19" column="24" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/school/web/AttendenceSheetController_Roo_Controller.aj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="480" max-vertical-offset="1755">
+          <caret line="42" column="29" selection-start-line="42" selection-start-column="29" selection-end-line="42" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/attendencesheets/create.jspx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
+          <caret line="9" column="101" selection-start-line="9" selection-start-column="56" selection-end-line="9" selection-end-column="101" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/abstractpeople/create.jspx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="450">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>school</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+  <component name="se.expertsystem.intellij.aop.aspectj.AspectJProjectComponent">
+    <setting name="isActivated" value="false" />
+    <aspect className="com.mycompany.school.domain.AbstractPerson_Roo_Configurable" enabled="true">file:$PROJECT_DIR$/target/classes/com/mycompany/school/domain/AbstractPerson_Roo_Configurable.class</aspect>
+    <aspect className="com.mycompany.school.domain.AbstractPerson_Roo_JavaBean" enabled="true">file:$PROJECT_DIR$/target/classes/com/mycompany/school/domain/AbstractPerson_Roo_JavaBean.class</aspect>
+    <aspect className="com.mycompany.school.domain.AbstractPerson_Roo_Jpa_ActiveRecord" enabled="true">file:$PROJECT_DIR$/target/classes/com/mycompany/school/domain/AbstractPerson_Roo_Jpa_ActiveRecord.class</aspect>
+    <aspect className="com.mycompany.school.domain.AbstractPerson_Roo_Jpa_Entity" enabled="true">file:$PROJECT_DIR$/target/classes/com/mycompany/school/domain/AbstractPerson_Roo_Jpa_Entity.class</aspect>
+    <aspect className="com.mycompany.school.domain.AbstractPerson_Roo_ToString" enabled="true">file:$PROJECT_DIR$/target/classes/com/mycompany/school/domain/AbstractPerson_Roo_ToString.class</aspect>
+    <aspect className="com.mycompany.school.domain.ClassSectionDataOnDemand_Roo_Configurable" enabled="true">file:$PROJECT_DIR$/target/test-classes/com/mycompany/school/domain/ClassSectionDataOnDemand_Roo_Configurable.class</aspect>
+    <aspect className="com.mycompany.school.domain.ClassSectionDataOnDemand_Roo_DataOnDemand" enabled="true">file:$PROJECT_DIR$/target/test-classes/com/mycompany/school/domain/ClassSectionDataOnDemand_Roo_DataOnDemand.class</aspect>
+    <aspect className="com.mycompany.school.domain.ClassSectionIntegrationTest_Roo_Configurable" enabled="true">file:$PROJECT_DIR$/target/test-classes/com/mycompany/school/domain/ClassSectionIntegrationTest_Roo_Configurable.class</aspect>
+    <aspect className="com.mycompany.school.domain.ClassSectionIntegrationTest_Roo_IntegrationTest" enabled="true">file:$PROJECT_DIR$/target/test-classes/com/mycompany/school/domain/ClassSectionIntegrationTest_Roo_IntegrationTest.class</aspect>
+    <aspect className="com.mycompany.school.domain.ClassSection_Roo_Configurable" enabled="true">file:$PROJECT_DIR$/target/classes/com/mycompany/school/domain/ClassSection_Roo_Configurable.class</aspect>
+    <aspect className="com.mycompany.school.domain.ClassSection_Roo_JavaBean" enabled="true">file:$PROJECT_DIR$/target/classes/com/mycompany/school/domain/ClassSection_Roo_JavaBean.class</aspect>
+    <aspect className="com.mycompany.school.domain.ClassSection_Roo_Jpa_ActiveRecord" enabled="true">file:$PROJECT_DIR$/target/classes/com/mycompany/school/domain/ClassSection_Roo_Jpa_ActiveRecord.class</aspect>
+    <aspect className="com.mycompany.school.domain.ClassSection_Roo_Jpa_Entity" enabled="true">file:$PROJECT_DIR$/target/classes/com/mycompany/school/domain/ClassSection_Roo_Jpa_Entity.class</aspect>
+    <aspect className="com.mycompany.school.domain.ClassSection_Roo_ToString" enabled="true">file:$PROJECT_DIR$/target/classes/com/mycompany/school/domain/ClassSection_Roo_ToString.class</aspect>
+    <aspect className="com.mycompany.school.domain.DesignationDataOnDemand_Roo_Configurable" enabled="true">file:$PROJECT_DIR$/target/test-classes/com/mycompany/school/domain/DesignationDataOnDemand_Roo_Configurable.class</aspect>
+    <aspect className="com.mycompany.school.domain.DesignationDataOnDemand_Roo_DataOnDemand" enabled="true">file:$PROJECT_DIR$/target/test-classes/com/mycompany/school/domain/DesignationDataOnDemand_Roo_DataOnDemand.class</aspect>
+    <aspect className="com.mycompany.school.domain.DesignationIntegrationTest_Roo_Configurable" enabled="true">file:$PROJECT_DIR$/target/test-classes/com/mycompany/school/domain/DesignationIntegrationTest_Roo_Configurable.class</aspect>
+    <aspect className="com.mycompany.school.domain.DesignationIntegrationTest_Roo_IntegrationTest" enabled="true">file:$PROJECT_DIR$/target/test-classes/com/mycompany/school/domain/DesignationIntegrationTest_Roo_IntegrationTest.class</aspect>
+    <aspect className="com.mycompany.school.domain.Designation_Roo_Configurable" enabled="true">file:$PROJECT_DIR$/target/classes/com/mycompany/school/domain/Designation_Roo_Configurable.class</aspect>
+    <aspect className="com.mycompany.school.domain.Designation_Roo_JavaBean" enabled="true">file:$PROJECT_DIR$/target/classes/com/mycompany/school/domain/Designation_Roo_JavaBean.class</aspect>
+    <aspect className="com.mycompany.school.domain.Designation_Roo_Jpa_ActiveRecord" enabled="true">file:$PROJECT_DIR$/target/classes/com/mycompany/school/domain/Designation_Roo_Jpa_ActiveRecord.class</aspect>
+    <aspect className="com.mycompany.school.domain.Designation_Roo_Jpa_Entity" enabled="true">file:$PROJECT_DIR$/target/classes/com/mycompany/school/domain/Designation_Roo_Jpa_Entity.class</aspect>
+    <aspect className="com.mycompany.school.domain.Designation_Roo_ToString" enabled="true">file:$PROJECT_DIR$/target/classes/com/mycompany/school/domain/Designation_Roo_ToString.class</aspect>
+    <aspect className="com.mycompany.school.domain.EventCategoryDataOnDemand_Roo_Configurable" enabled="true">file:$PROJECT_DIR$/target/test-classes/com/mycompany/school/domain/EventCategoryDataOnDemand_Roo_Configurable.class</aspect>
+    <aspect className="com.mycompany.school.domain.EventCategoryDataOnDemand_Roo_DataOnDemand" enabled="true">file:$PROJECT_DIR$/target/test-classes/com/mycompany/school/domain/EventCategoryDataOnDemand_Roo_DataOnDemand.class</aspect>
+    <aspect className="com.mycompany.school.domain.EventCategoryIntegrationTest_Roo_Configurable" enabled="true">file:$PROJECT_DIR$/target/test-classes/com/mycompany/school/domain/EventCategoryIntegrationTest_Roo_Configurable.class</aspect>
+    <aspect className="com.mycompany.school.domain.EventCategoryIntegrationTest_Roo_IntegrationTest" enabled="true">file:$PROJECT_DIR$/target/test-classes/com/mycompany/school/domain/EventCategoryIntegrationTest_Roo_IntegrationTest.class</aspect>
+    <aspect className="com.mycompany.school.domain.EventCategory_Roo_Configurable" enabled="true">file:$PROJECT_DIR$/target/classes/com/mycompany/school/domain/EventCategory_Roo_Configurable.class</aspect>
+    <aspect className="com.mycompany.school.domain.EventCategory_Roo_JavaBean" enabled="true">file:$PROJECT_DIR$/target/classes/com/mycompany/school/domain/EventCategory_Roo_JavaBean.class</aspect>
+    <aspect className="com.mycompany.school.domain.EventCategory_Roo_Jpa_ActiveRecord" enabled="true">file:$PROJECT_DIR$/target/classes/com/mycompany/school/domain/EventCategory_Roo_Jpa_ActiveRecord.class</aspect>
+    <aspect className="com.mycompany.school.domain.EventCategory_Roo_Jpa_Entity" enabled="true">file:$PROJECT_DIR$/target/classes/com/mycompany/school/domain/EventCategory_Roo_Jpa_Entity.class</aspect>
+    <aspect className="com.mycompany.school.domain.EventCategory_Roo_ToString" enabled="true">file:$PROJECT_DIR$/target/classes/com/mycompany/school/domain/EventCategory_Roo_ToString.class</aspect>
+    <aspect className="com.mycompany.school.domain.EventDataOnDemand_Roo_Configurable" enabled="true">file:$PROJECT_DIR$/target/test-classes/com/mycompany/school/domain/EventDataOnDemand_Roo_Configurable.class</aspect>
+    <aspect className="com.mycompany.school.domain.EventDataOnDemand_Roo_DataOnDemand" enabled="true">file:$PROJECT_DIR$/target/test-classes/com/mycompany/school/domain/EventDataOnDemand_Roo_DataOnDemand.class</aspect>
+    <aspect className="com.mycompany.school.domain.EventIntegrationTest_Roo_Configurable" enabled="true">file:$PROJECT_DIR$/target/test-classes/com/mycompany/school/domain/EventIntegrationTest_Roo_Configurable.class</aspect>
+    <aspect className="com.mycompany.school.domain.EventIntegrationTest_Roo_IntegrationTest" enabled="true">file:$PROJECT_DIR$/target/test-classes/com/mycompany/school/domain/EventIntegrationTest_Roo_IntegrationTest.class</aspect>
+    <aspect className="com.mycompany.school.domain.EventTypeDataOnDemand_Roo_Configurable" enabled="true">file:$PROJECT_DIR$/target/test-classes/com/mycompany/school/domain/EventTypeDataOnDemand_Roo_Configurable.class</aspect>
+    <aspect className="com.mycompany.school.domain.EventTypeDataOnDemand_Roo_DataOnDemand" enabled="true">file:$PROJECT_DIR$/target/test-classes/com/mycompany/school/domain/EventTypeDataOnDemand_Roo_DataOnDemand.class</aspect>
+    <aspect className="com.mycompany.school.domain.EventTypeIntegrationTest_Roo_Configurable" enabled="true">file:$PROJECT_DIR$/target/test-classes/com/mycompany/school/domain/EventTypeIntegrationTest_Roo_Configurable.class</aspect>
+    <aspect className="com.mycompany.school.domain.EventTypeIntegrationTest_Roo_IntegrationTest" enabled="true">file:$PROJECT_DIR$/target/test-classes/com/mycompany/school/domain/EventTypeIntegrationTest_Roo_IntegrationTest.class</aspect>
+    <aspect className="com.mycompany.school.domain.EventType_Roo_Configurable" enabled="true">file:$PROJECT_DIR$/target/classes/com/mycompany/school/domain/EventType_Roo_Configurable.class</aspect>
+    <aspect className="com.mycompany.school.domain.EventType_Roo_JavaBean" enabled="true">file:$PROJECT_DIR$/target/classes/com/mycompany/school/domain/EventType_Roo_JavaBean.class</aspect>
+    <aspect className="com.mycompany.school.domain.EventType_Roo_Jpa_ActiveRecord" enabled="true">file:$PROJECT_DIR$/target/classes/com/mycompany/school/domain/EventType_Roo_Jpa_ActiveRecord.class</aspect>
+    <aspect className="com.mycompany.school.domain.EventType_Roo_Jpa_Entity" enabled="true">file:$PROJECT_DIR$/target/classes/com/mycompany/school/domain/EventType_Roo_Jpa_Entity.class</aspect>
+    <aspect className="com.mycompany.school.domain.EventType_Roo_ToString" enabled="true">file:$PROJECT_DIR$/target/classes/com/mycompany/school/domain/EventType_Roo_ToString.class</aspect>
+    <aspect className="com.mycompany.school.domain.Event_Roo_Configurable" enabled="true">file:$PROJECT_DIR$/target/classes/com/mycompany/school/domain/Event_Roo_Configurable.class</aspect>
+    <aspect className="com.mycompany.school.domain.Event_Roo_JavaBean" enabled="true">file:$PROJECT_DIR$/target/classes/com/mycompany/school/domain/Event_Roo_JavaBean.class</aspect>
+    <aspect className="com.mycompany.school.domain.Event_Roo_Jpa_ActiveRecord" enabled="true">file:$PROJECT_DIR$/target/classes/com/mycompany/school/domain/Event_Roo_Jpa_ActiveRecord.class</aspect>
+    <aspect className="com.mycompany.school.domain.Event_Roo_Jpa_Entity" enabled="true">file:$PROJECT_DIR$/target/classes/com/mycompany/school/domain/Event_Roo_Jpa_Entity.class</aspect>
+    <aspect className="com.mycompany.school.domain.Event_Roo_ToString" enabled="true">file:$PROJECT_DIR$/target/classes/com/mycompany/school/domain/Event_Roo_ToString.class</aspect>
+    <aspect className="com.mycompany.school.domain.LeaveTypeDataOnDemand_Roo_Configurable" enabled="true">file:$PROJECT_DIR$/target/test-classes/com/mycompany/school/domain/LeaveTypeDataOnDemand_Roo_Configurable.class</aspect>
+    <aspect className="com.mycompany.school.domain.LeaveTypeDataOnDemand_Roo_DataOnDemand" enabled="true">file:$PROJECT_DIR$/target/test-classes/com/mycompany/school/domain/LeaveTypeDataOnDemand_Roo_DataOnDemand.class</aspect>
+    <aspect className="com.mycompany.school.domain.LeaveTypeIntegrationTest_Roo_Configurable" enabled="true">file:$PROJECT_DIR$/target/test-classes/com/mycompany/school/domain/LeaveTypeIntegrationTest_Roo_Configurable.class</aspect>
+    <aspect className="com.mycompany.school.domain.LeaveTypeIntegrationTest_Roo_IntegrationTest" enabled="true">file:$PROJECT_DIR$/target/test-classes/com/mycompany/school/domain/LeaveTypeIntegrationTest_Roo_IntegrationTest.class</aspect>
+    <aspect className="com.mycompany.school.domain.LeaveType_Roo_Configurable" enabled="true">file:$PROJECT_DIR$/target/classes/com/mycompany/school/domain/LeaveType_Roo_Configurable.class</aspect>
+    <aspect className="com.mycompany.school.domain.LeaveType_Roo_JavaBean" enabled="true">file:$PROJECT_DIR$/target/classes/com/mycompany/school/domain/LeaveType_Roo_JavaBean.class</aspect>
+    <aspect className="com.mycompany.school.domain.LeaveType_Roo_Jpa_ActiveRecord" enabled="true">file:$PROJECT_DIR$/target/classes/com/mycompany/school/domain/LeaveType_Roo_Jpa_ActiveRecord.class</aspect>
+    <aspect className="com.mycompany.school.domain.LeaveType_Roo_Jpa_Entity" enabled="true">file:$PROJECT_DIR$/target/classes/com/mycompany/school/domain/LeaveType_Roo_Jpa_Entity.class</aspect>
+    <aspect className="com.mycompany.school.domain.LeaveType_Roo_ToString" enabled="true">file:$PROJECT_DIR$/target/classes/com/mycompany/school/domain/LeaveType_Roo_ToString.class</aspect>
+    <aspect className="com.mycompany.school.domain.PersonRoleDataOnDemand_Roo_Configurable" enabled="true">file:$PROJECT_DIR$/target/test-classes/com/mycompany/school/domain/PersonRoleDataOnDemand_Roo_Configurable.class</aspect>
+    <aspect className="com.mycompany.school.domain.PersonRoleDataOnDemand_Roo_DataOnDemand" enabled="true">file:$PROJECT_DIR$/target/test-classes/com/mycompany/school/domain/PersonRoleDataOnDemand_Roo_DataOnDemand.class</aspect>
+    <aspect className="com.mycompany.school.domain.PersonRoleIntegrationTest_Roo_Configurable" enabled="true">file:$PROJECT_DIR$/target/test-classes/com/mycompany/school/domain/PersonRoleIntegrationTest_Roo_Configurable.class</aspect>
+    <aspect className="com.mycompany.school.domain.PersonRoleIntegrationTest_Roo_IntegrationTest" enabled="true">file:$PROJECT_DIR$/target/test-classes/com/mycompany/school/domain/PersonRoleIntegrationTest_Roo_IntegrationTest.class</aspect>
+    <aspect className="com.mycompany.school.domain.PersonRole_Roo_Configurable" enabled="true">file:$PROJECT_DIR$/target/classes/com/mycompany/school/domain/PersonRole_Roo_Configurable.class</aspect>
+    <aspect className="com.mycompany.school.domain.PersonRole_Roo_JavaBean" enabled="true">file:$PROJECT_DIR$/target/classes/com/mycompany/school/domain/PersonRole_Roo_JavaBean.class</aspect>
+    <aspect className="com.mycompany.school.domain.PersonRole_Roo_Jpa_ActiveRecord" enabled="true">file:$PROJECT_DIR$/target/classes/com/mycompany/school/domain/PersonRole_Roo_Jpa_ActiveRecord.class</aspect>
+    <aspect className="com.mycompany.school.domain.PersonRole_Roo_Jpa_Entity" enabled="true">file:$PROJECT_DIR$/target/classes/com/mycompany/school/domain/PersonRole_Roo_Jpa_Entity.class</aspect>
+    <aspect className="com.mycompany.school.domain.PersonRole_Roo_ToString" enabled="true">file:$PROJECT_DIR$/target/classes/com/mycompany/school/domain/PersonRole_Roo_ToString.class</aspect>
+    <aspect className="com.mycompany.school.domain.StaffLeaveDataOnDemand_Roo_Configurable" enabled="true">file:$PROJECT_DIR$/target/test-classes/com/mycompany/school/domain/StaffLeaveDataOnDemand_Roo_Configurable.class</aspect>
+    <aspect className="com.mycompany.school.domain.StaffLeaveDataOnDemand_Roo_DataOnDemand" enabled="true">file:$PROJECT_DIR$/target/test-classes/com/mycompany/school/domain/StaffLeaveDataOnDemand_Roo_DataOnDemand.class</aspect>
+    <aspect className="com.mycompany.school.domain.StaffLeaveIntegrationTest_Roo_Configurable" enabled="true">file:$PROJECT_DIR$/target/test-classes/com/mycompany/school/domain/StaffLeaveIntegrationTest_Roo_Configurable.class</aspect>
+    <aspect className="com.mycompany.school.domain.StaffLeaveIntegrationTest_Roo_IntegrationTest" enabled="true">file:$PROJECT_DIR$/target/test-classes/com/mycompany/school/domain/StaffLeaveIntegrationTest_Roo_IntegrationTest.class</aspect>
+    <aspect className="com.mycompany.school.domain.StaffLeave_Roo_Configurable" enabled="true">file:$PROJECT_DIR$/target/classes/com/mycompany/school/domain/StaffLeave_Roo_Configurable.class</aspect>
+    <aspect className="com.mycompany.school.domain.StaffLeave_Roo_JavaBean" enabled="true">file:$PROJECT_DIR$/target/classes/com/mycompany/school/domain/StaffLeave_Roo_JavaBean.class</aspect>
+    <aspect className="com.mycompany.school.domain.StaffLeave_Roo_Jpa_ActiveRecord" enabled="true">file:$PROJECT_DIR$/target/classes/com/mycompany/school/domain/StaffLeave_Roo_Jpa_ActiveRecord.class</aspect>
+    <aspect className="com.mycompany.school.domain.StaffLeave_Roo_Jpa_Entity" enabled="true">file:$PROJECT_DIR$/target/classes/com/mycompany/school/domain/StaffLeave_Roo_Jpa_Entity.class</aspect>
+    <aspect className="com.mycompany.school.domain.StaffLeave_Roo_ToString" enabled="true">file:$PROJECT_DIR$/target/classes/com/mycompany/school/domain/StaffLeave_Roo_ToString.class</aspect>
+    <aspect className="com.mycompany.school.domain.Staff_Roo_Configurable" enabled="true">file:$PROJECT_DIR$/target/classes/com/mycompany/school/domain/Staff_Roo_Configurable.class</aspect>
+    <aspect className="com.mycompany.school.domain.Staff_Roo_JavaBean" enabled="true">file:$PROJECT_DIR$/target/classes/com/mycompany/school/domain/Staff_Roo_JavaBean.class</aspect>
+    <aspect className="com.mycompany.school.domain.Staff_Roo_Jpa_ActiveRecord" enabled="true">file:$PROJECT_DIR$/target/classes/com/mycompany/school/domain/Staff_Roo_Jpa_ActiveRecord.class</aspect>
+    <aspect className="com.mycompany.school.domain.Staff_Roo_Jpa_Entity" enabled="true">file:$PROJECT_DIR$/target/classes/com/mycompany/school/domain/Staff_Roo_Jpa_Entity.class</aspect>
+    <aspect className="com.mycompany.school.domain.Staff_Roo_ToString" enabled="true">file:$PROJECT_DIR$/target/classes/com/mycompany/school/domain/Staff_Roo_ToString.class</aspect>
+    <aspect className="com.mycompany.school.domain.StudentClassDataOnDemand_Roo_Configurable" enabled="true">file:$PROJECT_DIR$/target/test-classes/com/mycompany/school/domain/StudentClassDataOnDemand_Roo_Configurable.class</aspect>
+    <aspect className="com.mycompany.school.domain.StudentClassDataOnDemand_Roo_DataOnDemand" enabled="true">file:$PROJECT_DIR$/target/test-classes/com/mycompany/school/domain/StudentClassDataOnDemand_Roo_DataOnDemand.class</aspect>
+    <aspect className="com.mycompany.school.domain.StudentClassIntegrationTest_Roo_Configurable" enabled="true">file:$PROJECT_DIR$/target/test-classes/com/mycompany/school/domain/StudentClassIntegrationTest_Roo_Configurable.class</aspect>
+    <aspect className="com.mycompany.school.domain.StudentClassIntegrationTest_Roo_IntegrationTest" enabled="true">file:$PROJECT_DIR$/target/test-classes/com/mycompany/school/domain/StudentClassIntegrationTest_Roo_IntegrationTest.class</aspect>
+    <aspect className="com.mycompany.school.domain.StudentClass_Roo_Configurable" enabled="true">file:$PROJECT_DIR$/target/classes/com/mycompany/school/domain/StudentClass_Roo_Configurable.class</aspect>
+    <aspect className="com.mycompany.school.domain.StudentClass_Roo_JavaBean" enabled="true">file:$PROJECT_DIR$/target/classes/com/mycompany/school/domain/StudentClass_Roo_JavaBean.class</aspect>
+    <aspect className="com.mycompany.school.domain.StudentClass_Roo_Jpa_ActiveRecord" enabled="true">file:$PROJECT_DIR$/target/classes/com/mycompany/school/domain/StudentClass_Roo_Jpa_ActiveRecord.class</aspect>
+    <aspect className="com.mycompany.school.domain.StudentClass_Roo_Jpa_Entity" enabled="true">file:$PROJECT_DIR$/target/classes/com/mycompany/school/domain/StudentClass_Roo_Jpa_Entity.class</aspect>
+    <aspect className="com.mycompany.school.domain.StudentClass_Roo_ToString" enabled="true">file:$PROJECT_DIR$/target/classes/com/mycompany/school/domain/StudentClass_Roo_ToString.class</aspect>
+    <aspect className="com.mycompany.school.domain.StudentDataOnDemand_Roo_Configurable" enabled="true">file:$PROJECT_DIR$/target/test-classes/com/mycompany/school/domain/StudentDataOnDemand_Roo_Configurable.class</aspect>
+    <aspect className="com.mycompany.school.domain.StudentDataOnDemand_Roo_DataOnDemand" enabled="true">file:$PROJECT_DIR$/target/test-classes/com/mycompany/school/domain/StudentDataOnDemand_Roo_DataOnDemand.class</aspect>
+    <aspect className="com.mycompany.school.domain.StudentIntegrationTest_Roo_Configurable" enabled="true">file:$PROJECT_DIR$/target/test-classes/com/mycompany/school/domain/StudentIntegrationTest_Roo_Configurable.class</aspect>
+    <aspect className="com.mycompany.school.domain.StudentIntegrationTest_Roo_IntegrationTest" enabled="true">file:$PROJECT_DIR$/target/test-classes/com/mycompany/school/domain/StudentIntegrationTest_Roo_IntegrationTest.class</aspect>
+    <aspect className="com.mycompany.school.domain.Student_Roo_Configurable" enabled="true">file:$PROJECT_DIR$/target/classes/com/mycompany/school/domain/Student_Roo_Configurable.class</aspect>
+    <aspect className="com.mycompany.school.domain.Student_Roo_Finder" enabled="true">file:$PROJECT_DIR$/target/classes/com/mycompany/school/domain/Student_Roo_Finder.class</aspect>
+    <aspect className="com.mycompany.school.domain.Student_Roo_JavaBean" enabled="true">file:$PROJECT_DIR$/target/classes/com/mycompany/school/domain/Student_Roo_JavaBean.class</aspect>
+    <aspect className="com.mycompany.school.domain.Student_Roo_Jpa_ActiveRecord" enabled="true">file:$PROJECT_DIR$/target/classes/com/mycompany/school/domain/Student_Roo_Jpa_ActiveRecord.class</aspect>
+    <aspect className="com.mycompany.school.domain.Student_Roo_Jpa_Entity" enabled="true">file:$PROJECT_DIR$/target/classes/com/mycompany/school/domain/Student_Roo_Jpa_Entity.class</aspect>
+    <aspect className="com.mycompany.school.domain.Student_Roo_ToString" enabled="true">file:$PROJECT_DIR$/target/classes/com/mycompany/school/domain/Student_Roo_ToString.class</aspect>
+    <aspect className="com.mycompany.school.web.ApplicationConversionServiceFactoryBean_Roo_ConversionService" enabled="true">file:$PROJECT_DIR$/target/classes/com/mycompany/school/web/ApplicationConversionServiceFactoryBean_Roo_ConversionService.class</aspect>
+    <aspect className="com.mycompany.school.web.ClassSectionController_Roo_Controller" enabled="true">file:$PROJECT_DIR$/target/classes/com/mycompany/school/web/ClassSectionController_Roo_Controller.class</aspect>
+    <aspect className="com.mycompany.school.web.DesignationController_Roo_Controller" enabled="true">file:$PROJECT_DIR$/target/classes/com/mycompany/school/web/DesignationController_Roo_Controller.class</aspect>
+    <aspect className="com.mycompany.school.web.EventCategoryController_Roo_Controller" enabled="true">file:$PROJECT_DIR$/target/classes/com/mycompany/school/web/EventCategoryController_Roo_Controller.class</aspect>
+    <aspect className="com.mycompany.school.web.EventController_Roo_Controller" enabled="true">file:$PROJECT_DIR$/target/classes/com/mycompany/school/web/EventController_Roo_Controller.class</aspect>
+    <aspect className="com.mycompany.school.web.EventTypeController_Roo_Controller" enabled="true">file:$PROJECT_DIR$/target/classes/com/mycompany/school/web/EventTypeController_Roo_Controller.class</aspect>
+    <aspect className="com.mycompany.school.web.LeaveTypeController_Roo_Controller" enabled="true">file:$PROJECT_DIR$/target/classes/com/mycompany/school/web/LeaveTypeController_Roo_Controller.class</aspect>
+    <aspect className="com.mycompany.school.web.StaffLeaveController_Roo_Controller" enabled="true">file:$PROJECT_DIR$/target/classes/com/mycompany/school/web/StaffLeaveController_Roo_Controller.class</aspect>
+    <aspect className="com.mycompany.school.web.StudentClassController_Roo_Controller" enabled="true">file:$PROJECT_DIR$/target/classes/com/mycompany/school/web/StudentClassController_Roo_Controller.class</aspect>
+    <aspect className="org.springframework.beans.factory.aspectj.AnnotationBeanConfigurerAspect" enabled="true">jar://file:/Users/singhr08/.m2/repository/org/springframework/spring-aspects/3.2.6.RELEASE/spring-aspects-3.2.6.RELEASE.jar!/org/springframework/beans/factory/aspectj/AnnotationBeanConfigurerAspect.class</aspect>
+    <aspect className="org.springframework.cache.aspectj.AnnotationCacheAspect" enabled="true">jar://file:/Users/singhr08/.m2/repository/org/springframework/spring-aspects/3.2.6.RELEASE/spring-aspects-3.2.6.RELEASE.jar!/org/springframework/cache/aspectj/AnnotationCacheAspect.class</aspect>
+    <aspect className="org.springframework.mock.staticmock.AnnotationDrivenStaticEntityMockingControl" enabled="true">jar://file:/Users/singhr08/.m2/repository/org/springframework/spring-aspects/3.2.6.RELEASE/spring-aspects-3.2.6.RELEASE.jar!/org/springframework/mock/staticmock/AnnotationDrivenStaticEntityMockingControl.class</aspect>
+    <aspect className="org.springframework.orm.jpa.aspectj.JpaExceptionTranslatorAspect" enabled="true">jar://file:/Users/singhr08/.m2/repository/org/springframework/spring-aspects/3.2.6.RELEASE/spring-aspects-3.2.6.RELEASE.jar!/org/springframework/orm/jpa/aspectj/JpaExceptionTranslatorAspect.class</aspect>
+    <aspect className="org.springframework.scheduling.aspectj.AnnotationAsyncExecutionAspect" enabled="true">jar://file:/Users/singhr08/.m2/repository/org/springframework/spring-aspects/3.2.6.RELEASE/spring-aspects-3.2.6.RELEASE.jar!/org/springframework/scheduling/aspectj/AnnotationAsyncExecutionAspect.class</aspect>
+    <aspect className="org.springframework.transaction.aspectj.AnnotationTransactionAspect" enabled="true">jar://file:/Users/singhr08/.m2/repository/org/springframework/spring-aspects/3.2.6.RELEASE/spring-aspects-3.2.6.RELEASE.jar!/org/springframework/transaction/aspectj/AnnotationTransactionAspect.class</aspect>
+  </component>
+</project>
+

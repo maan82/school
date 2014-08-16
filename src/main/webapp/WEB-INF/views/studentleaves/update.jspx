@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<div xmlns:field="urn:jsptagdir:/WEB-INF/tags/form/fields" xmlns:form="urn:jsptagdir:/WEB-INF/tags/form" xmlns:jsp="http://java.sun.com/JSP/Page" version="2.0">
+    <jsp:directive.page contentType="text/html;charset=UTF-8"/>
+    <jsp:output omit-xml-declaration="yes"/>
+    <form:update id="fu_com_mycompany_school_domain_StudentLeave" modelAttribute="studentLeave" path="/studentleaves" versionField="Version" z="d1bCm7EUsPcN1eQ5aKl6xy4uKl8=">
+        <field:datetime dateTimePattern="${studentLeave_leavefrom_date_format}" field="leaveFrom" id="c_com_mycompany_school_domain_StudentLeave_leaveFrom" required="true" z="C2dLwl/at2khVoRkZ2ApPImxHmo="/>
+        <field:datetime dateTimePattern="${studentLeave_leaveto_date_format}" field="leaveTo" id="c_com_mycompany_school_domain_StudentLeave_leaveTo" required="true" z="n78ZHijAkqlwn3ulQEJK3FjuJ7E="/>
+        <field:select field="leaveType" id="c_com_mycompany_school_domain_StudentLeave_leaveType" itemValue="id" items="${leavetypes}" path="/leavetypes" z="201pSBDcyViMoETsqCjtA2rZ4vw="/>
+        <field:textarea field="description" id="c_com_mycompany_school_domain_StudentLeave_description" z="eziAi9wRluEMgLPXQ1nVJwLAKRA="/>
+        <field:select field="student" id="c_com_mycompany_school_domain_StudentLeave_student" itemValue="id" items="${students}" path="/students" z="rtw7FWmNBfKRmNebkTefdnp/jy4="/>
+    </form:update>
+</div>

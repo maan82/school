@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<div xmlns:jsp="http://java.sun.com/JSP/Page" xmlns:page="urn:jsptagdir:/WEB-INF/tags/form" xmlns:table="urn:jsptagdir:/WEB-INF/tags/form/fields" version="2.0">
+    <jsp:directive.page contentType="text/html;charset=UTF-8"/>
+    <jsp:output omit-xml-declaration="yes"/>
+    <page:list id="pl_com_mycompany_school_domain_Attendence" items="${attendences}" z="vKjhaew9mIfnfnJz6XFzsHz7XKQ=">
+        <table:table data="${attendences}" id="l_com_mycompany_school_domain_Attendence" path="/staffattendences" z="eO9EmwO3I+7K+yUh/NSLmkn874o=">
+            <table:column date="true" dateTimePattern="${attendence_attendencedate_date_format}" id="c_com_mycompany_school_domain_Attendence_attendenceDate" property="attendenceDate" z="UxcSE3xOuf/Ad2Z7gVeK1j8DGJk="/>
+            <table:column id="c_com_mycompany_school_domain_Attendence_remarks" property="remarks" z="foHse3yuqGvFcpWEwcr0+3smHI4="/>
+            <table:column id="c_com_mycompany_school_domain_Attendence_attendence" property="attendence" z="uA3k9f3Vky06CGQu3Wp41v1NXAE="/>
+            <table:column id="c_com_mycompany_school_domain_Attendence_person" property="person" z="Ndxyl6VGVaQp56CxP7eP17P8KRw="/>
+            <table:column id="c_com_mycompany_school_domain_Attendence_attendenceSheet" property="attendenceSheet" z="L6nIgkWMdfpKNM4TKt5QSvVtP0c="/>
+        </table:table>
+    </page:list>
+</div>

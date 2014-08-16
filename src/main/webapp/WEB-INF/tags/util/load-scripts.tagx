@@ -1,0 +1,63 @@
+<jsp:root xmlns:c="http://java.sun.com/jsp/jstl/core" xmlns:fn="http://java.sun.com/jsp/jstl/functions" xmlns:jsp="http://java.sun.com/JSP/Page" xmlns:spring="http://www.springframework.org/tags" version="2.0">
+
+  <jsp:output omit-xml-declaration="yes" />
+
+  <spring:theme code="styleSheet" var="roo_css" />
+  <spring:url value="/${roo_css}" var="roo_css_url" />
+  <spring:url value="/resources/dojo/dojo.js" var="dojo_url" />
+  <spring:url value="/resources/dijit/themes/tundra/tundra.css" var="tundra_url" />
+  <spring:url value="/resources/spring/Spring.js" var="spring_url" />
+  <spring:url value="/resources/spring/Spring-Dojo.js" var="spring_dojo_url" />
+  <spring:url value="/resources/images/favicon.ico" var="favicon" />
+  <spring:url value="/resources/bootstrap/js/bootstrap.min.js" var="bootstrap_min_js_url" />
+  <spring:url value="/resources/bootstrap/css/bootstrap.min.css" var="bootstrap_min_css_url" />
+  <spring:url value="/resources/bootstrap/js/jquery-1.11.1.min.js" var="jquery_min_js_url" />
+  <spring:url value="/resources/dbootstrap/theme/dbootstrap/dbootstrap.css" var="bootstrap_url" />
+
+  <meta http-equiv="cache-control" content="no-cache"/>
+  <meta http-equiv="pragma" content="no-cache"/>
+
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+
+
+  <link rel="stylesheet" type="text/css" href="${bootstrap_url}" />
+  <link rel="stylesheet" type="text/css" media="screen" href="${roo_css_url}" />
+  <link rel="SHORTCUT ICON" href="${favicon}" />
+
+
+  <!-- Get the user local from the page context (it was set by Spring MVC's locale resolver) -->
+  <c:set var="userLocale">
+    <c:set var="plocale">${pageContext.response.locale}</c:set>
+    <c:out value="${fn:replace(plocale, '_', '-')}" default="en" />
+  </c:set>
+
+  <script>
+    // Instead of using data-dojo-config, we're creating a dojoConfig
+    // object *before* we load dojo.js; they're functionally identical,
+    // it's just easier to read this approach with a larger configuration.
+    var djConfig = {
+      parseOnLoad: true,
+      isDebug: false,
+      locale: '${fn:toLowerCase(userLocale)}',
+      async: false,
+      // This code registers the correct location of the "demo"
+      // package so we can load Dojo from the CDN whilst still
+      // being able to load local modules
+      packages: [{
+        name: "dbootstrap",
+        location: '/resources/dbootstrap'
+      }]
+    };
+  </script>
+  <script src="${dojo_url}" type="text/javascript"><!-- required for FF3 and Opera --></script>
+  <script src="${spring_url}" type="text/javascript"><!-- /required for FF3 and Opera --></script>
+  <script src="${spring_dojo_url}" type="text/javascript"><!-- required for FF3 and Opera --></script>
+  <script>
+    require(['dbootstrap/main', 'dojo/parser', 'dijit/form/Button'],
+      function(dbootstrap, pr) {
+
+      }
+    );
+  </script>
+
+</jsp:root>

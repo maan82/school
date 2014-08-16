@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<div xmlns:jsp="http://java.sun.com/JSP/Page" xmlns:page="urn:jsptagdir:/WEB-INF/tags/form" xmlns:table="urn:jsptagdir:/WEB-INF/tags/form/fields" version="2.0">
+    <jsp:directive.page contentType="text/html;charset=UTF-8"/>
+    <jsp:output omit-xml-declaration="yes"/>
+    <page:list id="pl_com_mycompany_school_domain_StudentLeave" items="${studentleaves}" z="fKuTlmjgRD/Bsfe77fgRhWYT3ic=">
+        <table:table data="${studentleaves}" id="l_com_mycompany_school_domain_StudentLeave" path="/studentleaves" z="wvUHtwKzWPctU/b6puqoYwyQFuo=">
+            <table:column date="true" dateTimePattern="${studentLeave_leavefrom_date_format}" id="c_com_mycompany_school_domain_StudentLeave_leaveFrom" property="leaveFrom" z="fqDAL5Zdbbbxh0X6O6YkZT2XPHc="/>
+            <table:column date="true" dateTimePattern="${studentLeave_leaveto_date_format}" id="c_com_mycompany_school_domain_StudentLeave_leaveTo" property="leaveTo" z="gfOGMilOuceYteN0mKmIfZa3wUo="/>
+            <table:column id="c_com_mycompany_school_domain_StudentLeave_leaveType" property="leaveType" z="Lk/9bTb3hWS0uHKP3CvDXKdZubA="/>
+            <table:column id="c_com_mycompany_school_domain_StudentLeave_description" property="description" z="4En82QBU0jKbor06SeQO7181rPo="/>
+            <table:column id="c_com_mycompany_school_domain_StudentLeave_student" property="student" z="0/91eXP/yBGge+vd84dag9FvYz4="/>
+        </table:table>
+    </page:list>
+</div>

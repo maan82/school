@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<div xmlns:c="http://java.sun.com/jsp/jstl/core"  xmlns:util="urn:jsptagdir:/WEB-INF/tags/util"   xmlns:table="urn:jsptagdir:/WEB-INF/tags/form/fields" xmlns:field="urn:jsptagdir:/WEB-INF/tags/form/fields" xmlns:form="http://www.springframework.org/tags/form"  xmlns:jsp="http://java.sun.com/JSP/Page" xmlns:spring="http://www.springframework.org/tags" version="2.0">
+  <jsp:directive.page contentType="text/html;charset=UTF-8"/>
+  <jsp:output omit-xml-declaration="yes"/>
+
+  <spring:message code="menu_category_studentattendence_label" var="menu_category_studentattendence_label"/>
+
+  <util:panel id="c_studentattendence" title="${menu_category_studentattendence_label}" openPane="true">
+  <form:form method="post" action="/staffattendences?attendence=staff" modelAttribute="attendencesheet">
+    <input name="staff.id" value="${attendencesheet.staff.id}" type="hidden"/>
+    <table>
+      <tr>
+        <th>Name</th>
+        <th>Designation</th>
+        <th>Attendence</th>
+        <th>Remarks</th>
+      </tr>
+      <spring:message code="label_com_mycompany_school_domain_attendence_remarks" var="label_com_mycompany_school_domain_attendence_remarks"/>
+
+      <c:forEach items="${attendencesheet.attendenceList}" var="attendence" varStatus="status">
+        <tr>
+          <td>
+            <input name="attendenceList[${status.index}].person.id" value="${attendence.person.id}" type="hidden"/>
+
+            <c:out value="${attendence.person.firstName}"/><c:out value=" "/><c:out value="${attendence.person.lastName}"/>
+
+          </td>
+          <td>
+            <c:out value="${attendence.person.designation.name}"/>
+
+          </td>
+          <td class="radio">
+              <form:radiobuttons path="attendenceList[${status.index}].attendence" items="${attendences}" />
+          </td>
+          <td>
+
+            <field:input field="attendenceList[${status.index}].remarks" id="c_com_mycompany_school_domain_StudentAttendence_remarks${status.index}" label="${label_com_mycompany_school_domain_attendence_remarks}" z="GrG4h6jubOODD+U+6fImqLySS8Y="/>
+
+          </td>
+        </tr>
+      </c:forEach>
+    </table>
+
+    <br/>
+    <input type="submit" value="Save" />
+
+  </form:form>
+  </util:panel>
+</div>

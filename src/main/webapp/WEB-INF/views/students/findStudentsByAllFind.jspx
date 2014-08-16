@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<div  xmlns:c="http://java.sun.com/jsp/jstl/core" xmlns:field="urn:jsptagdir:/WEB-INF/tags/form/fields" xmlns:form="urn:jsptagdir:/WEB-INF/tags/form" xmlns:jsp="http://java.sun.com/JSP/Page" version="2.0">
+    <jsp:directive.page contentType="text/html;charset=UTF-8"/>
+    <jsp:output omit-xml-declaration="yes"/>
+  <c:choose>
+    <c:when test="${empty param.openPane}">
+      <c:set var="openPane" value="true" />
+    </c:when>
+    <c:when test="${!empty param.openPane}">
+      <c:set var="openPane" value="${param.openPane}" />
+    </c:when>
+  </c:choose>
+    <form:find finderName="ByAllFind" id="ff_com_mycompany_school_domain_Student" path="/students" openPane="${openPane}" z="F6dJpwv+i5//LbQ0YLjIUGZPEaA=">
+        <field:input disableFormBinding="true" field="firstName" id="f_com_mycompany_school_domain_Student_firstName" min="2"  z="wMbXBjkWDoCE4UvgoC75QoiWCbg="/>
+        <field:input disableFormBinding="true" field="lastName" id="f_com_mycompany_school_domain_Student_lastName" min="2"  z="Hx4C/HYnco4zUyrEz/UN1hGV8kE="/>
+        <field:input disableFormBinding="true" field="fatherName" id="c_com_mycompany_school_domain_Student_fatherName" min="2"  z="EEoLicy1CQn9FRXujGs8zMV4YY8="/>
+        <field:input disableFormBinding="true" field="motherName" id="c_com_mycompany_school_domain_Student_motherName" min="2"  z="+Sn2Nbemsf2yKLpATQTIE5h0LwM="/>
+        <field:datetime disableFormBinding="true" dateTimePattern="${student_dateofbirth_date_format}" field="dateOfBirth" id="c_com_mycompany_school_domain_Student_dateOfBirth" z="I6Y9pcwPkn6lwfXUKp1/kc5s2ow="/>
+        <field:input disableFormBinding="true" field="rollNumber" id="c_com_mycompany_school_domain_Student_rollNumber"  validationMessageCode="field_invalid_integer" z="u7Bp7gcXPjA7yXhTnSUAMHe/4pA="/>
+        <field:input disableFormBinding="true" field="emailId" id="c_com_mycompany_school_domain_Student_emailId" validationMessageCode="field_invalid_email" validationRegex="[a-zA-Z0-9]+@[a-zA-Z0-9]+\\.[a-zA-Z0-9]+" z="MhKtWXBdCflahXEJw2ageryJnrk="/>
+        <field:input disableFormBinding="true" field="address" id="c_com_mycompany_school_domain_Student_address" z="ZTACbu6P+d1mVLicubpUhn5bUe8="/>
+        <field:input disableFormBinding="true" field="city" id="c_com_mycompany_school_domain_Student_city" min="1"  z="OPUmLsDox8PVcZCoCOYfmk9cYxE="/>
+        <field:input disableFormBinding="true" field="countryState" id="c_com_mycompany_school_domain_Student_countryState" min="1"  z="d2vwN6G0SxSYhG4AnFbhyC6lBgs="/>
+        <field:input disableFormBinding="true" field="country" id="c_com_mycompany_school_domain_Student_country" min="1"  z="fni8SeuIhL2dLl9eDAerlplpku0="/>
+        <field:input disableFormBinding="true" field="mobile" id="c_com_mycompany_school_domain_Student_mobile" max="20" min="1"  z="MNz8EH2XWFXs7+8v0CXpnXZPIZk="/>
+        <field:input disableFormBinding="true" field="pincode" id="c_com_mycompany_school_domain_Student_pincode" max="20" min="1"  z="Do9UOrPZMa9+tSqMM4/ojnA3i/4="/>
+        <field:select disableFormBinding="true" field="gender" id="c_com_mycompany_school_domain_Student_gender" items="${genders}" path="genders"  z="nBM3v02VKc3+1+Shnvz1KWVQ/ho="/>
+        <field:checkbox disableFormBinding="true" field="enabled" id="c_com_mycompany_school_domain_Student_enabled" z="DHehNcwidQproEf4/SKDN8psqC0="/>
+        <field:input disableFormBinding="true" field="passwordSHA" id="c_com_mycompany_school_domain_Student_passwordSHA"  z="+nDfzEKfoSe/8KhP+SG0ZoOWsSs="/>
+        <field:select disableFormBinding="true" field="studentClass" id="c_com_mycompany_school_domain_Student_studentClass" itemValue="id" items="${studentclasses}" path="/studentclasses" z="9SWP77TO1fCJvq6az9r1UvqoHLk="/>
+        <field:select disableFormBinding="true" field="classSection" id="c_com_mycompany_school_domain_Student_classSection" itemValue="id" items="${classsections}" path="/classsections" z="4Wt/dBqWcr22X9LtICvz2v7xuhY="/>
+        <field:select disableFormBinding="true" field="personRoles" id="c_com_mycompany_school_domain_Student_personRoles" itemValue="id" items="${personroles}" multiple="true" path="/personroles" z="user-managed"/>
+    </form:find>
+</div>

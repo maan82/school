@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<div xmlns:field="urn:jsptagdir:/WEB-INF/tags/form/fields" xmlns:form="urn:jsptagdir:/WEB-INF/tags/form" xmlns:jsp="http://java.sun.com/JSP/Page" xmlns:page="urn:jsptagdir:/WEB-INF/tags/form" xmlns:table="urn:jsptagdir:/WEB-INF/tags/form/fields" version="2.0">
+    <jsp:directive.page contentType="text/html;charset=UTF-8"/>
+    <jsp:output omit-xml-declaration="yes"/>
+    <jsp:include flush="true" page="findStudentsByAllFind.jspx">
+        <jsp:param name="openPane" value="false"/>
+    </jsp:include>
+    <page:list id="pl_com_mycompany_school_domain_Student" items="${students}" z="zZRiuBDEl7mRnfYJZuRIIHep2fM=">
+        <table:table data="${students}" id="l_com_mycompany_school_domain_Student" path="/students" z="g7P8917aySVLMhEHGJimbMdzcH8=">
+            <table:column id="c_com_mycompany_school_domain_Student_rollNumber" property="rollNumber" sort="true" z="sjsX5dw7vhKuLZ6+L5vFkCvdK58="/>
+            <table:column id="c_com_mycompany_school_domain_Student_firstName" property="firstName" sort="true" z="user-managed"/>
+            <table:column id="c_com_mycompany_school_domain_Student_lastName" property="lastName" sort="true" z="user-managed"/>
+            <table:column id="c_com_mycompany_school_domain_Student_studentClass" property="studentClass" z="uDlIdFtvoPHC6BYRZT0qiN1e+wo="/>
+            <table:column id="c_com_mycompany_school_domain_Student_classSection" property="classSection" z="uDlIdFtvoPHC6BZRPT0qiN1e+wo="/>
+            <table:column id="c_com_mycompany_school_domain_Student_gender" property="gender" z="lCOQXQn47UhFMCUEMx8Wmf45wNs="/>
+            <table:column id="c_com_mycompany_school_domain_Student_fatherName" property="fatherName" z="QBOZjyK9JZ2BGcSVyR1ptcKG7yQ="/>
+            <table:column id="c_com_mycompany_school_domain_Student_motherName" property="motherName" z="mTE59MCDBGWtX+jWPrOlOMVvzeo="/>
+            <table:column date="true" dateTimePattern="${student_dateofbirth_date_format}" id="c_com_mycompany_school_domain_Student_dateOfBirth" property="dateOfBirth" z="WWZK9mzLvq1klaFzJcuq7gZ+Mh0="/>
+        </table:table>
+    </page:list>
+</div>

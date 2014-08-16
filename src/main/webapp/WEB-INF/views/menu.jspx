@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<div xmlns:jsp="http://java.sun.com/JSP/Page" xmlns:menu="urn:jsptagdir:/WEB-INF/tags/menu" id="menu" version="2.0">
+    <jsp:directive.page contentType="text/html;charset=UTF-8"/>
+    <jsp:output omit-xml-declaration="yes"/>
+    <menu:menu id="_menu" z="nZaf43BjUg1iM0v70HJVEsXDopc=">
+        <menu:category id="c_event" z="AURyeKTmOObIARXqfI9DXukJNIE=">
+            <menu:item id="i_event_new" messageCode="global_menu_new" url="/events?form" z="BObcRn250Q23VbXG8kWIXR49efE="/>
+            <menu:item id="i_event_list" messageCode="global_menu_list" url="/events?page=1&amp;size=${empty param.size ? 10 : param.size}" z="MxywFHCy64/coyVU05GEg92ERF4="/>
+        </menu:category>
+        <menu:category id="c_controller" z="nj8Dm3hojIyIEyPkwE1UMDIs+K8=">
+            <menu:item id="i_controller__classsectionindex_id" messageCode="global_generic" url="/classsection/index" z="U4bVZRWSd5OCPMIRYEOsnvUJQEQ="/>
+            <menu:item id="i_controller__studentclassindex_id" messageCode="global_generic" url="/studentclass/index" z="fchfzCDmth4TpVUfUr2x/NEAJZM="/>
+            <menu:item id="i_controller__attendenceindex_id" messageCode="global_generic" url="/attendence/index" z="bHbmIOCJ/Ech4Rc7Nho8T26FWp4="/>
+            <menu:item id="i_controller__helpindex_id" messageCode="global_generic" url="/help/index" z="VjaNswrszKZ/VB4y8fF2SSHYWPM="/>
+        </menu:category>
+        <menu:category id="c_classsection" z="fHG0AiH4kDo9WKk9mypBCUhLe1Y=">
+            <menu:item id="i_classsection_new" messageCode="global_menu_new" url="/classsections?form" z="dydQkWKeF31/1UXW00z9Hd7qXZg="/>
+            <menu:item id="i_classsection_list" messageCode="global_menu_list" url="/classsections?page=1&amp;size=${empty param.size ? 10 : param.size}" z="GbUrgMShZCmTX9iu4NsoQud/W4g="/>
+        </menu:category>
+        <menu:category id="c_studentclass" z="pLUi9zazOpY1R24FtanIL115umg=">
+            <menu:item id="i_studentclass_new" messageCode="global_menu_new" url="/studentclasses?form" z="Kmx3LaLoUCUicLhn7ttxSqXyt3E="/>
+            <menu:item id="i_studentclass_list" messageCode="global_menu_list" url="/studentclasses?page=1&amp;size=${empty param.size ? 10 : param.size}" z="w+ZsF/H8cO3BeD9jmnU8ZB50zmI="/>
+        </menu:category>
+        <menu:category id="c_leavetype" z="k3aa2jBidkp6dSpsngCaHL1/FAM=">
+            <menu:item id="i_leavetype_new" messageCode="global_menu_new" url="/leavetypes?form" z="WeJfNWp+M6D0ThfjlIZfY/tthRo="/>
+            <menu:item id="i_leavetype_list" messageCode="global_menu_list" url="/leavetypes?page=1&amp;size=${empty param.size ? 10 : param.size}" z="Zn+EU6eJWGBjtLlyZIV5XYteKB0="/>
+        </menu:category>
+        <menu:category id="c_designation" z="JF68uCJLdzMbl1XzAuVasvKOnBY=">
+            <menu:item id="i_designation_new" messageCode="global_menu_new" url="/designations?form" z="vdb0xgmCc32WxTGxdYtvrcSblOQ="/>
+            <menu:item id="i_designation_list" messageCode="global_menu_list" url="/designations?page=1&amp;size=${empty param.size ? 10 : param.size}" z="gJao2k6cFwYy3YpaMpa/xbtYmyk="/>
+        </menu:category>
+        <menu:category id="c_eventtype" z="YIw08qf9woeDNJxEEEDzMaqJT+M=">
+            <menu:item id="i_eventtype_new" messageCode="global_menu_new" url="/eventtypes?form" z="dkIqwPAyQiGGzqS01OADXehl6Fk="/>
+            <menu:item id="i_eventtype_list" messageCode="global_menu_list" url="/eventtypes?page=1&amp;size=${empty param.size ? 10 : param.size}" z="v3FoaMcbz5SDOG4Qz/sq9yQxZIw="/>
+        </menu:category>
+        <menu:category id="c_eventcategory" z="2eMTmEWjvBrkzFggNpxUaMYYQoE=">
+            <menu:item id="i_eventcategory_new" messageCode="global_menu_new" url="/eventcategorys?form" z="4LGUsfodRqPDBMabsvSeX/y05Eg="/>
+            <menu:item id="i_eventcategory_list" messageCode="global_menu_list" url="/eventcategorys?page=1&amp;size=${empty param.size ? 10 : param.size}" z="Mo30UdKyQe9bKsOtTAd5XBKUTH0="/>
+        </menu:category>
+        <menu:category id="c_student" z="VA/5j81jpINYUQQoxpb8LUYLpWk=">
+            <menu:item id="i_student_new" messageCode="global_menu_new" url="/students?form" z="xCEWOyB2txSvWmV9Fxwd+H7BxCM="/>
+            <menu:item id="i_student_list" messageCode="global_menu_list" url="/students?page=1&amp;size=${empty param.size ? 10 : param.size}" z="PSLnBxZ6Z7hXmOglFNorqDjA2H0="/>
+        </menu:category>
+        <menu:category id="c_staffleave" z="OyZ3kHEF8F6bnOoc6biK9TJiD2Y=">
+            <menu:item id="i_staffleave_new" messageCode="global_menu_new" url="/staffleaves?form" z="vL7bt1IZqQuXnfGsYBb9N/dysng="/>
+            <menu:item id="i_staffleave_list" messageCode="global_menu_list" url="/staffleaves?page=1&amp;size=${empty param.size ? 10 : param.size}" z="ne4qqmh7GaG10SIgZi810Jenq1Q="/>
+        </menu:category>
+        <menu:category id="c_staff" z="WEqNUFcSQYoW/mQULTlPjM/nWNU=">
+            <menu:item id="i_staff_new" messageCode="global_menu_new" url="/staffs?form" z="H2VWxcFT9MZjwJqkdaMj688QtI4="/>
+            <menu:item id="i_staff_list" messageCode="global_menu_list" url="/staffs?page=1&amp;size=${empty param.size ? 10 : param.size}" z="s2koFiEuMF5CA25e3iXOXnGz8CQ="/>
+        </menu:category>
+        <menu:category id="c_personrole" z="TK0GWRosP1gPe6HYOhQfdM8RvLc=">
+            <menu:item id="i_personrole_new" messageCode="global_menu_new" url="/personroles?form" z="6BojBcHRUBiPlI51HggIQHC7iH8="/>
+            <menu:item id="i_personrole_list" messageCode="global_menu_list" url="/personroles?page=1&amp;size=${empty param.size ? 10 : param.size}" z="BNX13KfI5bCfy6mE7WJt3FX6Ous="/>
+        </menu:category>
+        <menu:category id="c_staffattendence" z="v4NSxBKpRsKq2twprtmyL8fusuY=">
+            <menu:item id="i_staffattendence_new" messageCode="global_menu_new" url="/staffattendences?form" z="xebsFgaL/KUH9zLwYIzx7CHKfMc="/>
+            <menu:item id="i_staffattendence_list" messageCode="global_menu_list" url="/staffattendences?page=1&amp;size=${empty param.size ? 10 : param.size}" z="DaX7H+AqOxNtd6smWHMLo+fnKsw="/>
+        </menu:category>
+        <menu:category id="c_studentattendence" z="QM8Yg8rb/LOOdg4W4FZfoyr4rA8=">
+            <menu:item id="i_studentattendence_new" messageCode="global_menu_new" url="/studentattendences?form" z="tr+wH53DjPBrcyR5RllVqV8SYJI="/>
+            <menu:item id="i_studentattendence_list" messageCode="global_menu_list" url="/studentattendences?page=1&amp;size=${empty param.size ? 10 : param.size}" z="E5w/+zXOkToMP5LH/+e8SKVId1o="/>
+        </menu:category>
+        <menu:category id="c_attendencesheet" z="ufAKhgOBtYM4LBbRMrXvSle3yoA=">
+            <menu:item id="i_attendencesheet_new" messageCode="global_menu_new" url="/attendencesheets?form" z="YXK5xnAhrD64p6habOxDyhcHKTI="/>
+            <menu:item id="i_attendencesheet_list" messageCode="global_menu_list" url="/attendencesheets?page=1&amp;size=${empty param.size ? 10 : param.size}" z="FVOEuaUCc5wkGegEZsVfvp6SZxI="/>
+        </menu:category>
+        <menu:category id="c_attendence" z="P5Q778mQcVX3NacvmDWgxJ7cyBU=">
+            <menu:item id="i_attendence_new" messageCode="global_menu_new" url="/staffattendences?form" z="/xRTzuY4fWeNi4Y+mOFGTpzZZXQ="/>
+            <menu:item id="i_attendence_list" messageCode="global_menu_list" url="/staffattendences?page=1&amp;size=${empty param.size ? 10 : param.size}" z="+JsjQ9C9tKv4up+b6T45pmfsQbU="/>
+        </menu:category>
+        <menu:category id="c_abstractperson" z="c87nLBYDeskv+5ccOlh8Z74Pjwg=">
+            <menu:item id="i_abstractperson_new" messageCode="global_menu_new" url="/abstractpeople?form" z="GrtWaQluS9QrCUNjBLzJno6MsBo="/>
+            <menu:item id="i_abstractperson_list" messageCode="global_menu_list" url="/abstractpeople?page=1&amp;size=${empty param.size ? 10 : param.size}" z="h85P2OqQbFR2T/SJPW8Jx3ZhN6Q="/>
+        </menu:category>
+        <menu:category id="c_studentleave" z="bjeQMoKX67Lwqi+TM5G5vTOluRI=">
+            <menu:item id="i_studentleave_new" messageCode="global_menu_new" url="/studentleaves?form" z="iU8Y8kHKbo9VBQh41JsOSxFpVgQ="/>
+            <menu:item id="i_studentleave_list" messageCode="global_menu_list" url="/studentleaves?page=1&amp;size=${empty param.size ? 10 : param.size}" z="bTve1lRYtz7Wj2dP0jdsNCOEiRY="/>
+        </menu:category>
+    </menu:menu>
+</div>

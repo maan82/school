@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<div xmlns:field="urn:jsptagdir:/WEB-INF/tags/form/fields" xmlns:jsp="http://java.sun.com/JSP/Page" xmlns:page="urn:jsptagdir:/WEB-INF/tags/form" version="2.0">
+    <jsp:directive.page contentType="text/html;charset=UTF-8"/>
+    <jsp:output omit-xml-declaration="yes"/>
+    <page:show id="ps_com_mycompany_school_domain_StaffLeave" object="${staffleave}" path="/staffleaves" z="s33Gx1ljhQJkggsMPTGEfhac98Q=">
+        <field:display date="true" dateTimePattern="${staffLeave_leavefrom_date_format}" field="leaveFrom" id="s_com_mycompany_school_domain_StaffLeave_leaveFrom" object="${staffleave}" z="679Mgr71JtDJHy5Y904Yb/G6rb8="/>
+        <field:display date="true" dateTimePattern="${staffLeave_leaveto_date_format}" field="leaveTo" id="s_com_mycompany_school_domain_StaffLeave_leaveTo" object="${staffleave}" z="cIR8PWdsOt/LK0qeAJLAtimnP/0="/>
+        <field:display field="leaveType" id="s_com_mycompany_school_domain_StaffLeave_leaveType" object="${staffleave}" z="+BWQDFfOTa6R2ae2VSqb8sgxgVY="/>
+        <field:display field="description" id="s_com_mycompany_school_domain_StaffLeave_description" object="${staffleave}" z="A1jJ9wRRvYCJU0935PST+CRG+oQ="/>
+        <field:display field="staff" id="s_com_mycompany_school_domain_StaffLeave_staff" object="${staffleave}" z="HPWQh467smB+cH1gOPf8+bCwTqk="/>
+    </page:show>
+</div>

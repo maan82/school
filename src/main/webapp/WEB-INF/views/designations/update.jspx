@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<div xmlns:field="urn:jsptagdir:/WEB-INF/tags/form/fields" xmlns:form="urn:jsptagdir:/WEB-INF/tags/form" xmlns:jsp="http://java.sun.com/JSP/Page" version="2.0">
+    <jsp:directive.page contentType="text/html;charset=UTF-8"/>
+    <jsp:output omit-xml-declaration="yes"/>
+    <form:update id="fu_com_mycompany_school_domain_Designation" modelAttribute="designation" path="/designations" versionField="Version" z="Hdydpj7qj0e6g27k9cRABfzRp1Y=">
+        <field:input field="name" id="c_com_mycompany_school_domain_Designation_name" min="2" required="true" z="949e57g/nTB4ENsStQZ2X0Wx7nM="/>
+        <field:simple field="staffs" id="c_com_mycompany_school_domain_Designation_staffs" messageCode="entity_reference_not_managed" messageCodeAttribute="Staff" z="bl5gJ5DUQW7Hu8LxlG/FeqNtVhY="/>
+    </form:update>
+</div>

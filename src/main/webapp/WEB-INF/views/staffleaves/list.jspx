@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<div xmlns:jsp="http://java.sun.com/JSP/Page" xmlns:page="urn:jsptagdir:/WEB-INF/tags/form" xmlns:table="urn:jsptagdir:/WEB-INF/tags/form/fields" version="2.0">
+    <jsp:directive.page contentType="text/html;charset=UTF-8"/>
+    <jsp:output omit-xml-declaration="yes"/>
+    <page:list id="pl_com_mycompany_school_domain_StaffLeave" items="${staffleaves}" z="j+fEgHQfbFLxPjLBkUDOQ9vkMDY=">
+        <table:table data="${staffleaves}" id="l_com_mycompany_school_domain_StaffLeave" path="/staffleaves" z="FOz0VWWYE7vuK0f2F4cbFjiQWYQ=">
+            <table:column date="true" dateTimePattern="${staffLeave_leavefrom_date_format}" id="c_com_mycompany_school_domain_StaffLeave_leaveFrom" property="leaveFrom" z="exDsNg5One8P7HMP0C1jSCyAoII="/>
+            <table:column date="true" dateTimePattern="${staffLeave_leaveto_date_format}" id="c_com_mycompany_school_domain_StaffLeave_leaveTo" property="leaveTo" z="N5idMEL/RhLgr7tao6KIhxc/5zM="/>
+            <table:column id="c_com_mycompany_school_domain_StaffLeave_leaveType" property="leaveType" z="8jT8+vqBtMDR3WxjODMnXcRKQGQ="/>
+            <table:column id="c_com_mycompany_school_domain_StaffLeave_description" property="description" z="gQz4rrQgtqtVtuQ+7qjlgU6ZSvw="/>
+            <table:column id="c_com_mycompany_school_domain_StaffLeave_staff" property="staff" z="wHdPbMU71UiPyqiitgI5WWLGKyA="/>
+        </table:table>
+    </page:list>
+</div>

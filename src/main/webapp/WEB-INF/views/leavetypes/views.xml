@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE tiles-definitions PUBLIC "-//Apache Software Foundation//DTD Tiles Configuration 2.1//EN" "http://tiles.apache.org/dtds/tiles-config_2_1.dtd">
+<tiles-definitions>
+    <definition extends="default" name="leavetypes/list">
+        <put-attribute name="body" value="/WEB-INF/views/leavetypes/list.jspx"/>
+    </definition>
+<definition extends="default" name="leavetypes/show">
+        <put-attribute name="body" value="/WEB-INF/views/leavetypes/show.jspx"/>
+    </definition>
+<definition extends="default" name="leavetypes/create">
+        <put-attribute name="body" value="/WEB-INF/views/leavetypes/create.jspx"/>
+    </definition>
+<definition extends="default" name="leavetypes/update">
+        <put-attribute name="body" value="/WEB-INF/views/leavetypes/update.jspx"/>
+    </definition>
+</tiles-definitions>

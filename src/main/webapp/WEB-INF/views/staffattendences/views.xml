@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE tiles-definitions PUBLIC "-//Apache Software Foundation//DTD Tiles Configuration 2.1//EN" "http://tiles.apache.org/dtds/tiles-config_2_1.dtd">
+<tiles-definitions>
+    <definition extends="default" name="staffattendences/list">
+        <put-attribute name="body" value="/WEB-INF/views/staffattendences/list.jspx"/>
+    </definition>
+<definition extends="default" name="staffattendences/show">
+        <put-attribute name="body" value="/WEB-INF/views/staffattendences/show.jspx"/>
+    </definition>
+<definition extends="default" name="staffattendences/create">
+        <put-attribute name="body" value="/WEB-INF/views/staffattendences/create.jspx"/>
+    </definition>
+<definition extends="default" name="staffattendences/update">
+        <put-attribute name="body" value="/WEB-INF/views/staffattendences/update.jspx"/>
+    </definition>
+  <definition extends="default" name="staffattendences/list-sheets">
+    <put-attribute name="body" value="/WEB-INF/views/staffattendences/list-sheets.jspx"/>
+  </definition>
+
+</tiles-definitions>

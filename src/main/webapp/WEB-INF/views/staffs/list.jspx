@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<div xmlns:jsp="http://java.sun.com/JSP/Page" xmlns:page="urn:jsptagdir:/WEB-INF/tags/form" xmlns:table="urn:jsptagdir:/WEB-INF/tags/form/fields" version="2.0">
+    <jsp:directive.page contentType="text/html;charset=UTF-8"/>
+    <jsp:output omit-xml-declaration="yes"/>
+    <page:list id="pl_com_mycompany_school_domain_Staff" items="${staffs}" z="Ebpg1CUfpeb7lBMBjS9GcgXpXo0=">
+        <table:table data="${staffs}" id="l_com_mycompany_school_domain_Staff" path="/staffs" z="7xFbVayov9K9QDAgumWYEoKPrrg=">
+            <table:column id="c_com_mycompany_school_domain_Staff_designation" property="designation" sort="true" z="jZMLYiVPsFkaHa1mDqEwpTKhj7Q="/>
+            <table:column id="c_com_mycompany_school_domain_Staff_firstName" property="firstName" sort="true" z="user-managed"/>
+            <table:column id="c_com_mycompany_school_domain_Staff_lastName" property="lastName" sort="true" z="user-managed"/>
+            <table:column id="c_com_mycompany_school_domain_Staff_gender" property="gender" sort="true" z="user-managed"/>
+            <table:column date="true" dateTimePattern="${staff_dateofbirth_date_format}" id="c_com_mycompany_school_domain_Staff_dateOfBirth" property="dateOfBirth" sort="true" z="user-managed"/>
+            <table:column id="c_com_mycompany_school_domain_Staff_fatherName" property="fatherName" z="jZMLYiVPsFkaHa1mDqEwpTKhj7Q="/>
+            <table:column id="c_com_mycompany_school_domain_Staff_motherName" property="motherName" z="kw5ZHCyw0EcUh0odLzYczdt0mIE="/>
+        </table:table>
+    </page:list>
+</div>

@@ -1,0 +1,66 @@
+<div xmlns:c="http://java.sun.com/jsp/jstl/core" xmlns:menu="urn:jsptagdir:/WEB-INF/tags/menu"  xmlns:fn="http://java.sun.com/jsp/jstl/functions"  xmlns:spring="http://www.springframework.org/tags" xmlns:util="urn:jsptagdir:/WEB-INF/tags/util" xmlns:jsp="http://java.sun.com/JSP/Page" version="2.0">
+  <jsp:directive.page contentType="text/html;charset=UTF-8" />
+  <jsp:output omit-xml-declaration="yes" />
+  <spring:message var="title" code="global_menu_actions"/>
+  <util:panel id="menu_panel" title="${title}" openPane="false">
+    <spring:message code="global_menu_events" var="global_menu_events"/>
+    <util:panel id="my_events_menu_panel" title="${global_menu_events}" openPane="false">
+      <menu:panel-menu-item id="i_event_new" messageCode="global_menu_new" url="/events?form" z="BObcRn250Q23VbXG8kWIXR49efE="/>
+      <menu:panel-menu-item id="i_event_list" messageCode="global_menu_list" url="/events?page=1&amp;size=${empty param.size ? 10 : param.size}" z="MxywFHCy64/coyVU05GEg92ERF4="/>
+    </util:panel>
+    <spring:message code="global_menu_students" var="global_menu_students"/>
+    <util:panel id="my_students_menu_panel" title="${global_menu_students}" openPane="false">
+      <menu:panel-menu-item id="i_student_new" messageCode="global_menu_new" url="/students?form" z="xCEWOyB2txSvWmV9Fxwd+H7BxCM="/>
+      <menu:panel-menu-item id="i_student_list" messageCode="global_menu_list" url="/students?page=1&amp;size=${empty param.size ? 10 : param.size}" z="PSLnBxZ6Z7hXmOglFNorqDjA2H0="/>
+      <menu:panel-menu-item id="fi_student_all" messageCode="global_menu_search" url="/students?find=ByAllFind&amp;form&amp;page=1&amp;size=${empty param.size ? 10 : param.size}" z="pGjomdstjYyNyy1JwdYtbTk6/AE="/>
+    </util:panel>
+    <spring:message code="global_menu_staff" var="global_menu_staff"/>
+    <util:panel id="my_staff_menu_panel" title="${global_menu_staff}" openPane="false">
+      <menu:panel-menu-item id="i_staff_new" messageCode="global_menu_new" url="/staffs?form" z="H2VWxcFT9MZjwJqkdaMj688QtI4="/>
+      <menu:panel-menu-item id="i_staff_list" messageCode="global_menu_list" url="/staffs?page=1&amp;size=${empty param.size ? 10 : param.size}" z="s2koFiEuMF5CA25e3iXOXnGz8CQ="/>
+    </util:panel>
+    <spring:message code="global_menu_leaves" var="global_menu_leaves"/>
+    <util:panel id="c_staffleave" title="${global_menu_leaves}" openPane="false">
+      <menu:panel-menu-item id="i_staffleave_new" messageCode="global_menu_new" url="/staffleaves?form" z="vL7bt1IZqQuXnfGsYBb9N/dysng="/>
+      <menu:panel-menu-item id="i_staffleave_list" messageCode="global_menu_list" url="/staffleaves?page=1&amp;size=${empty param.size ? 10 : param.size}" z="ne4qqmh7GaG10SIgZi810Jenq1Q="/>
+    </util:panel>
+    <spring:message code="global_menu_attendence" var="global_menu_attendence"/>
+    <util:panel id="c_attendence" title="${global_menu_attendence}" openPane="false">
+      <menu:panel-menu-item id="i_studentattendence_new" messageCode="label_com_mycompany_school_domain_studentattendence" url="/studentattendences?form&amp;find=ByClassAndSection" z="0avtxj/Y51j57nS2ca7oCzusbO4="/>
+      <menu:panel-menu-item id="i_studentattendences_list" messageCode="menu_item_studentattendences_list_label" url="/studentattendences" z="0avtxj/Y51j57nS2ca7oCzusbO4="/>
+      <menu:panel-menu-item id="i_staffattendence_new" messageCode="menu_category_staffattendence_label" url="/staffattendences?find=ByStaff" z="0avtxj/Y51j57nS2ca7oCzusbO4="/>
+      <menu:panel-menu-item id="i_staffattendences_list" messageCode="menu_item_staffattendences_list_label" url="/staffattendences" z="o5rTb26+INzNT9HDkG04JguDO50="/>
+    </util:panel>
+    <spring:message code="global_menu_miscellaneous" var="global_menu_miscellaneous"/>
+    <util:panel id="c_leavetype" title="${global_menu_miscellaneous}" openPane="false">
+      <menu:panel-menu-category id="i_studentclass_group_menu" label="label_com_mycompany_school_domain_student_studentclass">
+        <menu:panel-menu-item id="i_studentclass_new" messageCode="global_menu_new" url="/studentclasses?form" z="Kmx3LaLoUCUicLhn7ttxSqXyt3E="/>
+        <menu:panel-menu-item id="i_studentclass_list" messageCode="global_menu_list" url="/studentclasses?page=1&amp;size=${empty param.size ? 10 : param.size}" z="w+ZsF/H8cO3BeD9jmnU8ZB50zmI="/>
+      </menu:panel-menu-category>
+      <menu:panel-menu-category id="i_classsection_group_menu" label="menu_category_classsection_label">
+        <menu:panel-menu-item id="i_classsection_new" messageCode="global_menu_new" url="/classsections?form" z="dydQkWKeF31/1UXW00z9Hd7qXZg="/>
+        <menu:panel-menu-item id="i_classsection_list" messageCode="global_menu_list" url="/classsections?page=1&amp;size=${empty param.size ? 10 : param.size}" z="GbUrgMShZCmTX9iu4NsoQud/W4g="/>
+      </menu:panel-menu-category>
+      <menu:panel-menu-category id="i_leavetype_group_menu" label="menu_category_leavetype_label">
+        <menu:panel-menu-item id="i_leavetype_new" messageCode="global_menu_new" url="/leavetypes?form" z="WeJfNWp+M6D0ThfjlIZfY/tthRo="/>
+        <menu:panel-menu-item id="i_leavetype_list" messageCode="global_menu_list" url="/leavetypes?page=1&amp;size=${empty param.size ? 10 : param.size}" z="Zn+EU6eJWGBjtLlyZIV5XYteKB0="/>
+      </menu:panel-menu-category>
+      <menu:panel-menu-category id="i_designation_group_menu" label="menu_category_designation_label">
+        <menu:panel-menu-item id="i_designation_new" messageCode="global_menu_new" url="/designations?form" z="vdb0xgmCc32WxTGxdYtvrcSblOQ="/>
+        <menu:panel-menu-item id="i_designation_list" messageCode="global_menu_list" url="/designations?page=1&amp;size=${empty param.size ? 10 : param.size}" z="gJao2k6cFwYy3YpaMpa/xbtYmyk="/>
+      </menu:panel-menu-category>
+      <menu:panel-menu-category id="i_eventtype_group_menu" label="menu_category_eventtype_label">
+        <menu:panel-menu-item id="i_eventtype_new" messageCode="global_menu_new" url="/eventtypes?form" z="dkIqwPAyQiGGzqS01OADXehl6Fk="/>
+        <menu:panel-menu-item id="i_eventtype_list" messageCode="global_menu_list" url="/eventtypes?page=1&amp;size=${empty param.size ? 10 : param.size}" z="v3FoaMcbz5SDOG4Qz/sq9yQxZIw="/>
+      </menu:panel-menu-category>
+      <menu:panel-menu-category id="i_eventcategory_group_menu" label="menu_category_eventcategory_label">
+        <menu:panel-menu-item id="i_eventcategory_new" messageCode="global_menu_new" url="/eventcategorys?form" z="4LGUsfodRqPDBMabsvSeX/y05Eg="/>
+        <menu:panel-menu-item id="i_eventcategory_list" messageCode="global_menu_list" url="/eventcategorys?page=1&amp;size=${empty param.size ? 10 : param.size}" z="Mo30UdKyQe9bKsOtTAd5XBKUTH0="/>
+      </menu:panel-menu-category>
+      <menu:panel-menu-category id="i_personrole_group_menu" label="menu_category_personrole_label">
+        <menu:panel-menu-item id="i_personrole_new" messageCode="global_menu_new" url="/personroles?form" z="6BojBcHRUBiPlI51HggIQHC7iH8="/>
+        <menu:panel-menu-item id="i_personrole_list" messageCode="global_menu_list" url="/personroles?page=1&amp;size=${empty param.size ? 10 : param.size}" z="BNX13KfI5bCfy6mE7WJt3FX6Ous="/>
+      </menu:panel-menu-category>
+    </util:panel>
+  </util:panel>
+</div>

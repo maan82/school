@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<div   xmlns:spring="http://www.springframework.org/tags"   xmlns:c="http://java.sun.com/jsp/jstl/core"  xmlns:table="urn:jsptagdir:/WEB-INF/tags/form/fields" xmlns:field="urn:jsptagdir:/WEB-INF/tags/form/fields" xmlns:jsp="http://java.sun.com/JSP/Page" xmlns:page="urn:jsptagdir:/WEB-INF/tags/form" version="2.0">
+    <jsp:directive.page contentType="text/html;charset=UTF-8"/>
+    <jsp:output omit-xml-declaration="yes"/>
+    <spring:message code="label_com_mycompany_school_domain_classsection_name" var="label_com_mycompany_school_domain_classsection_name"></spring:message>
+
+    <page:show id="ps_com_mycompany_school_domain_Attendence" object="${attendencesheet}" path="/staffattendences" create="false" update="false" delete="false" z="+/I6Hh0mPS3p8ryG2sOK7xyF4rs=">
+      <table:table data="${attendencesheet.attendenceList}" id="l_com_mycompany_school_domain_Attendence" create="false" update="false" delete="false" view="false" path="/staffattendences/attendence" z="nOUSbllyucBdcVAjpuzsshj32mY=">
+        <table:column date="true" dateTimePattern="${staffAttendence_attendencedate_date_format}" id="c_com_mycompany_school_domain_Attendence_attendenceDate" property="attendenceDate" z="UxcSE3xOuf/Ad2Z7gVeK1j8DGJk="/>
+        <table:column id="c_com_mycompany_school_domain_Attendence_remarks" property="remarks" z="foHse3yuqGvFcpWEwcr0+3smHI4="/>
+        <table:column id="c_com_mycompany_school_domain_Attendence_attendence" property="attendence" z="uA3k9f3Vky06CGQu3Wp41v1NXAE="/>
+        <table:column id="c_com_mycompany_school_domain_Attendence_person" property="person" label="${label_com_mycompany_school_domain_classsection_name}" z="Ndxyl6VGVaQp56CxP7eP17P8KRw="/>
+      </table:table>
+    </page:show>
+</div>

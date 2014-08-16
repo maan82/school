@@ -1,0 +1,29 @@
+<jsp:root xmlns:c="http://java.sun.com/jsp/jstl/core"  xmlns:field="urn:jsptagdir:/WEB-INF/tags/form/fields"  xmlns:fn="http://java.sun.com/jsp/jstl/functions" xmlns:util="urn:jsptagdir:/WEB-INF/tags/util" xmlns:spring="http://www.springframework.org/tags" xmlns:form="http://www.springframework.org/tags/form" xmlns:fmt="http://java.sun.com/jsp/jstl/fmt" xmlns:jsp="http://java.sun.com/JSP/Page" version="2.0">
+  <jsp:directive.tag import="java.util.ArrayList" />
+  <jsp:output omit-xml-declaration="yes" />
+
+
+  <form:form method="post" action="save.html" modelAttribute="contactForm">
+  <table>
+    <tr>
+      <th>No.</th>
+      <th>Name</th>
+      <th>Lastname</th>
+      <th>Email</th>
+      <th>Phone</th>
+    </tr>
+    <c:forEach items="${contactForm.contacts}" var="contact" varStatus="status">
+      <tr>
+        <td align="center">${status.count}</td>
+        <td><input name="contacts[${status.index}].firstname" value="${contact.firstname}"/></td>
+        <td><input name="contacts[${status.index}].lastname" value="${contact.lastname}"/></td>
+        <td><input name="contacts[${status.index}].email" value="${contact.email}"/></td>
+        <td><input name="contacts[${status.index}].phone" value="${contact.phone}"/></td>
+      </tr>
+    </c:forEach>
+  </table>
+  <br/>
+  <input type="submit" value="Save" />
+
+</form:form>
+</jsp:root>
